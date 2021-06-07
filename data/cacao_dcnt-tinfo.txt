@@ -1,0 +1,2304 @@
+BP	GO:0022414	1232	 1.712	D01	reproductive process
+BP	GO:0040011	 820	 1.367	D01	locomotion
+BP	GO:0008283	 486	 2.280	D01	cell population proliferation
+BP	GO:0043473	 117	 2.979	D01	pigmentation
+BP	GO:0009758	   1	 2.979	D01	carbohydrate utilization
+BP	GO:0006807	6075	 0.838	D02	nitrogen compound metabolic process
+BP	GO:0008219	 508	 2.280	D02	cell death
+BP	GO:0007389	 444	 2.280	D02	pattern specification process
+BP	GO:0007155	 310	 2.025	D02	cell adhesion
+BP	GO:0007059	 245	 2.502	D02	chromosome segregation
+BP	GO:0055114	 245	 2.201	D02	oxidation-reduction process
+BP	GO:0071554	 237	 2.377	D02	cell wall organization or biogenesis
+BP	GO:0051301	 234	 2.326	D02	cell division
+BP	GO:0032259	 172	 2.201	D02	methylation
+BP	GO:0043934	 106	 2.326	D02	sporulation
+BP	GO:0007163	 102	 2.678	D02	establishment or maintenance of cell polarity
+BP	GO:0050673	  80	 2.979	D02	epithelial cell proliferation
+BP	GO:0046034	  76	 2.803	D02	ATP metabolic process
+BP	GO:0002532	  34	 3.280	D02	production of molecular mediator involved in inflammatory response
+BP	GO:0098630	  29	 3.280	D02	aggregation of unicellular organisms
+BP	GO:0007626	  27	 2.979	D02	locomotory behavior
+BP	GO:0019835	  23	 2.166	D02	cytolysis
+BP	GO:0006457	  22	 2.581	D02	protein folding
+BP	GO:0009847	  16	 3.280	D02	spore germination
+BP	GO:0030534	  11	 3.280	D02	adult behavior
+BP	GO:0007566	   4	 3.280	D02	embryo implantation
+BP	GO:0060352	   3	 3.280	D02	cell adhesion molecule production
+BP	GO:0035172	   3	 3.280	D02	hemocyte proliferation
+BP	GO:0033687	   3	 3.280	D02	osteoblast proliferation
+BP	GO:0071625	   2	 2.979	D02	vocalization behavior
+BP	GO:0043627	   1	 3.280	D02	response to estrogen
+BP	GO:0035640	   1	 3.280	D02	exploration behavior
+BP	GO:0043335	   0	 3.280	D02	protein unfolding
+BP	GO:0022004	   0	 3.280	D02	midbrain-hindbrain boundary maturation during brain development
+BP	GO:0010312	   0	 3.280	D02	detoxification of zinc ion
+BP	GO:0008104	 922	 1.581	D03	protein localization
+BP	GO:0005975	 781	 1.749	D03	carbohydrate metabolic process
+BP	GO:0050790	 617	 1.581	D03	regulation of catalytic activity
+BP	GO:0048870	 569	 1.509	D03	cell motility
+BP	GO:0048598	 401	 2.502	D03	embryonic morphogenesis
+BP	GO:0000278	 365	 3.280	D03	mitotic cell cycle
+BP	GO:0006935	 272	 2.166	D03	chemotaxis
+BP	GO:0098609	 239	 2.581	D03	cell-cell adhesion
+BP	GO:0030155	 210	 1.900	D03	regulation of cell adhesion
+BP	GO:0051649	 201	 2.435	D03	establishment of localization in cell
+BP	GO:0009611	 165	 2.803	D03	response to wounding
+BP	GO:0097435	 162	 2.239	D03	supramolecular fiber organization
+BP	GO:0046677	 141	 2.979	D03	response to antibiotic
+BP	GO:0006979	 101	 2.803	D03	response to oxidative stress
+BP	GO:0048588	  68	 2.803	D03	developmental cell growth
+BP	GO:0006970	  62	 2.678	D03	response to osmotic stress
+BP	GO:0048839	  59	 3.280	D03	inner ear development
+BP	GO:0048002	  58	 3.280	D03	antigen processing and presentation of peptide antigen
+BP	GO:0048438	  56	 3.280	D03	floral whorl development
+BP	GO:0030010	  51	 2.979	D03	establishment of cell polarity
+BP	GO:0021549	  42	 3.280	D03	cerebellum development
+BP	GO:0050881	  39	 3.280	D03	musculoskeletal movement
+BP	GO:0015979	  38	 3.280	D03	photosynthesis
+BP	GO:0021695	  28	 3.280	D03	cerebellar cortex development
+BP	GO:0048512	  25	 2.979	D03	circadian behavior
+BP	GO:0042752	  21	 2.979	D03	regulation of circadian rhythm
+BP	GO:0042335	  21	 2.979	D03	cuticle development
+BP	GO:0030901	  21	 3.280	D03	midbrain development
+BP	GO:0003151	  20	 3.280	D03	outflow tract morphogenesis
+BP	GO:0048069	  16	 3.280	D03	eye pigmentation
+BP	GO:0071941	  15	 2.435	D03	nitrogen cycle metabolic process
+BP	GO:0021772	  12	 3.280	D03	olfactory bulb development
+BP	GO:0051298	  11	 3.280	D03	centrosome duplication
+BP	GO:0006808	  11	 2.581	D03	regulation of nitrogen utilization
+BP	GO:0032613	  11	 3.280	D03	interleukin-10 production
+BP	GO:0010227	  11	 3.280	D03	floral organ abscission
+BP	GO:0010228	  10	 3.280	D03	vegetative to reproductive phase transition of meristem
+BP	GO:0061077	   7	 2.803	D03	chaperone-mediated protein folding
+BP	GO:0033627	   7	 3.280	D03	cell adhesion mediated by integrin
+BP	GO:0001825	   6	 3.280	D03	blastocyst formation
+BP	GO:0048286	   6	 3.280	D03	lung alveolus development
+BP	GO:0048461	   6	 2.979	D03	flower structural organization
+BP	GO:0042118	   5	 3.280	D03	endothelial cell activation
+BP	GO:0001832	   5	 3.280	D03	blastocyst growth
+BP	GO:0097168	   5	 3.280	D03	mesenchymal stem cell proliferation
+BP	GO:0072537	   4	 3.280	D03	fibroblast activation
+BP	GO:0008345	   4	 3.280	D03	larval locomotory behavior
+BP	GO:0008218	   3	 2.104	D03	bioluminescence
+BP	GO:0060618	   3	 3.280	D03	nipple development
+BP	GO:0033278	   3	 3.280	D03	cell proliferation in midbrain
+BP	GO:0060137	   3	 3.280	D03	maternal process involved in parturition
+BP	GO:0042048	   3	 2.678	D03	olfactory behavior
+BP	GO:0090143	   2	 3.280	D03	nucleoid organization
+BP	GO:0060274	   2	 2.979	D03	maintenance of stationary phase
+BP	GO:0021694	   2	 3.280	D03	cerebellar Purkinje cell layer formation
+BP	GO:0030541	   1	 2.979	D03	plasmid partitioning
+BP	GO:0090102	   1	 3.280	D03	cochlea development
+BP	GO:0060720	   1	 3.280	D03	spongiotrophoblast cell proliferation
+BP	GO:0071585	   1	 3.280	D03	detoxification of cadmium ion
+BP	GO:0009405	   1	 1.509	D03	pathogenesis
+BP	GO:0035176	   1	 2.678	D03	social behavior
+BP	GO:0043366	   0	 3.280	D03	beta selection
+BP	GO:0043610	   0	 3.280	D03	regulation of carbohydrate utilization
+BP	GO:0061073	   0	 3.280	D03	ciliary body morphogenesis
+BP	GO:0021542	   0	 3.280	D03	dentate gyrus development
+BP	GO:0021541	   0	 3.280	D03	ammon gyrus development
+BP	GO:0097325	   0	 3.280	D03	melanocyte proliferation
+BP	GO:0007165	1668	 1.678	D04	signal transduction
+BP	GO:0010467	1275	 2.979	D04	gene expression
+BP	GO:0007399	1266	 3.280	D04	nervous system development
+BP	GO:0006811	1045	 1.833	D04	ion transport
+BP	GO:0022008	 705	 2.979	D04	neurogenesis
+BP	GO:0051276	 689	 2.280	D04	chromosome organization
+BP	GO:0034613	 609	 1.789	D04	cellular protein localization
+BP	GO:0016477	 519	 2.239	D04	cell migration
+BP	GO:0045184	 504	 1.865	D04	establishment of protein localization
+BP	GO:0051726	 501	 1.724	D04	regulation of cell cycle
+BP	GO:0001817	 491	 1.678	D04	regulation of cytokine production
+BP	GO:0007507	 447	 2.979	D04	heart development
+BP	GO:0006915	 403	 2.502	D04	apoptotic process
+BP	GO:0060341	 402	 1.979	D04	regulation of cellular localization
+BP	GO:0032880	 375	 1.833	D04	regulation of protein localization
+BP	GO:0016032	 360	 1.201	D04	viral process
+BP	GO:0048666	 303	 2.581	D04	neuron development
+BP	GO:0007423	 301	 2.581	D04	sensory organ development
+BP	GO:0042127	 299	 1.789	D04	regulation of cell population proliferation
+BP	GO:0001944	 212	 3.280	D04	vasculature development
+BP	GO:0006974	 207	 1.689	D04	cellular response to DNA damage stimulus
+BP	GO:0016042	 193	 2.581	D04	lipid catabolic process
+BP	GO:0006954	 173	 2.979	D04	inflammatory response
+BP	GO:0007281	 159	 2.979	D04	germ cell development
+BP	GO:2000243	 142	 2.280	D04	positive regulation of reproductive process
+BP	GO:0007159	 125	 3.280	D04	leukocyte cell-cell adhesion
+BP	GO:0007498	 104	 2.803	D04	mesoderm development
+BP	GO:0032535	 100	 2.502	D04	regulation of cellular component size
+BP	GO:0051302	  96	 2.239	D04	regulation of cell division
+BP	GO:0006914	  94	 2.581	D04	autophagy
+BP	GO:0007600	  94	 2.803	D04	sensory perception
+BP	GO:0030435	  81	 2.678	D04	sporulation resulting in formation of a cellular spore
+BP	GO:0007015	  80	 2.502	D04	actin filament organization
+BP	GO:0061025	  79	 2.581	D04	membrane fusion
+BP	GO:0007552	  75	 3.280	D04	metamorphosis
+BP	GO:0007411	  70	 2.979	D04	axon guidance
+BP	GO:0006040	  68	 2.678	D04	amino sugar metabolic process
+BP	GO:0045927	  59	 2.239	D04	positive regulation of growth
+BP	GO:0043937	  54	 2.201	D04	regulation of sporulation
+BP	GO:0009948	  45	 3.280	D04	anterior/posterior axis specification
+BP	GO:0048316	  45	 2.979	D04	seed development
+BP	GO:0050918	  41	 2.581	D04	positive chemotaxis
+BP	GO:0045777	  40	 3.280	D04	positive regulation of blood pressure
+BP	GO:0060914	  37	 3.280	D04	heart formation
+BP	GO:0055006	  35	 3.280	D04	cardiac cell development
+BP	GO:0044406	  35	 1.736	D04	adhesion of symbiont to host
+BP	GO:0035418	  31	 3.280	D04	protein localization to synapse
+BP	GO:0010015	  29	 3.280	D04	root morphogenesis
+BP	GO:0022900	  27	 2.803	D04	electron transport chain
+BP	GO:0090529	  25	 2.803	D04	cell septum assembly
+BP	GO:0007029	  25	 2.678	D04	endoplasmic reticulum organization
+BP	GO:0001942	  24	 3.280	D04	hair follicle development
+BP	GO:0009651	  23	 2.979	D04	response to salt stress
+BP	GO:0007160	  22	 3.280	D04	cell-matrix adhesion
+BP	GO:0051646	  20	 2.979	D04	mitochondrion localization
+BP	GO:0001302	  19	 3.280	D04	replicative cell aging
+BP	GO:0044010	  18	 1.919	D04	single-species biofilm formation
+BP	GO:0009408	  18	 2.581	D04	response to heat
+BP	GO:0000768	  15	 2.979	D04	syncytium formation by plasma membrane fusion
+BP	GO:0009950	  15	 3.280	D04	dorsal/ventral axis specification
+BP	GO:0046185	  14	 3.280	D04	aldehyde catabolic process
+BP	GO:0019915	  14	 3.280	D04	lipid storage
+BP	GO:0006801	  12	 3.280	D04	superoxide metabolic process
+BP	GO:0060259	  11	 3.280	D04	regulation of feeding behavior
+BP	GO:0032640	  11	 3.280	D04	tumor necrosis factor production
+BP	GO:0007398	  11	 3.280	D04	ectoderm development
+BP	GO:1903332	   9	 2.979	D04	regulation of protein folding
+BP	GO:0045444	   9	 2.979	D04	fat cell differentiation
+BP	GO:0048854	   9	 2.979	D04	brain morphogenesis
+BP	GO:0060536	   9	 2.803	D04	cartilage morphogenesis
+BP	GO:0036212	   8	 3.280	D04	contractile ring maintenance
+BP	GO:0003281	   8	 2.979	D04	ventricular septum development
+BP	GO:0001556	   7	 3.280	D04	oocyte maturation
+BP	GO:0051315	   7	 3.280	D04	attachment of mitotic spindle microtubules to kinetochore
+BP	GO:0090148	   7	 3.280	D04	membrane fission
+BP	GO:0003283	   7	 2.979	D04	atrial septum development
+BP	GO:0060074	   6	 3.280	D04	synapse maturation
+BP	GO:0043708	   6	 2.581	D04	cell adhesion involved in biofilm formation
+BP	GO:0048315	   5	 2.678	D04	conidium formation
+BP	GO:0042754	   5	 3.280	D04	negative regulation of circadian rhythm
+BP	GO:0019418	   4	 3.280	D04	sulfide oxidation
+BP	GO:0001714	   4	 3.280	D04	endodermal cell fate specification
+BP	GO:0048767	   4	 3.280	D04	root hair elongation
+BP	GO:0009291	   4	 2.678	D04	unidirectional conjugation
+BP	GO:0061113	   4	 3.280	D04	pancreas morphogenesis
+BP	GO:0075039	   4	 3.280	D04	establishment of turgor in appressorium
+BP	GO:1901998	   4	 3.280	D04	toxin transport
+BP	GO:0060081	   3	 3.280	D04	membrane hyperpolarization
+BP	GO:1902031	   3	 2.803	D04	regulation of NADP metabolic process
+BP	GO:0043053	   3	 3.280	D04	dauer entry
+BP	GO:0009901	   3	 3.280	D04	anther dehiscence
+BP	GO:0009835	   3	 3.280	D04	fruit ripening
+BP	GO:0010447	   3	 2.979	D04	response to acidic pH
+BP	GO:0045475	   3	 3.280	D04	locomotor rhythm
+BP	GO:1900067	   2	 3.280	D04	regulation of cellular response to alkaline pH
+BP	GO:0019417	   2	 3.280	D04	sulfur oxidation
+BP	GO:0060034	   2	 3.280	D04	notochord cell differentiation
+BP	GO:0042052	   2	 3.280	D04	rhabdomere development
+BP	GO:0071976	   2	 2.678	D04	cell gliding
+BP	GO:0050828	   2	 3.280	D04	regulation of liquid surface tension
+BP	GO:0035564	   2	 3.280	D04	regulation of kidney size
+BP	GO:0042733	   2	 3.280	D04	embryonic digit morphogenesis
+BP	GO:0009960	   2	 3.280	D04	endosperm development
+BP	GO:0044117	   2	 2.979	D04	growth of symbiont in host
+BP	GO:0001555	   1	 3.280	D04	oocyte growth
+BP	GO:0045838	   1	 2.979	D04	positive regulation of membrane potential
+BP	GO:0042621	   1	 3.280	D04	poly(3-hydroxyalkanoate) biosynthetic process
+BP	GO:0010449	   1	 2.979	D04	root meristem growth
+BP	GO:0009877	   1	 3.280	D04	nodulation
+BP	GO:1990507	   0	 3.280	D04	ATP-independent chaperone mediated protein folding
+BP	GO:0001896	   0	 2.979	D04	autolysis
+BP	GO:0038002	   0	 3.280	D04	endocrine signaling
+BP	GO:0043107	   0	 2.678	D04	type IV pilus-dependent motility
+BP	GO:0000918	   0	 2.803	D04	division septum site selection
+BP	GO:0046797	   0	 2.803	D04	viral procapsid maturation
+BP	GO:0031648	   0	 2.678	D04	protein destabilization
+BP	GO:0050821	   0	 2.979	D04	protein stabilization
+BP	GO:2000821	   0	 3.280	D04	regulation of grooming behavior
+BP	GO:0009399	   0	 2.678	D04	nitrogen fixation
+BP	GO:0060347	   0	 3.280	D04	heart trabecula formation
+BP	GO:0010311	   0	 2.803	D04	lateral root formation
+BP	GO:0046697	   0	 3.280	D04	decidualization
+BP	GO:0080187	   0	 3.280	D04	floral organ senescence
+BP	GO:0060013	   0	 3.280	D04	righting reflex
+BP	GO:0043052	   0	 3.280	D04	thermotaxis
+BP	GO:0042333	   0	 3.280	D04	chemotaxis to oxidizable substrate
+BP	GO:0061887	   0	 2.280	D04	reproduction of symbiont in host
+BP	GO:0036164	   0	 3.280	D04	cell-abiotic substrate adhesion
+BP	GO:0009966	 919	 1.394	D05	regulation of signal transduction
+BP	GO:0010468	 812	 0.919	D05	regulation of gene expression
+BP	GO:0051130	 412	 1.467	D05	positive regulation of cellular component organization
+BP	GO:0035556	 397	 1.958	D05	intracellular signal transduction
+BP	GO:0016310	 359	 1.627	D05	phosphorylation
+BP	GO:0045596	 311	 2.166	D05	negative regulation of cell differentiation
+BP	GO:0045597	 289	 1.678	D05	positive regulation of cell differentiation
+BP	GO:2000145	 244	 1.647	D05	regulation of cell motility
+BP	GO:0006508	 244	 1.865	D05	proteolysis
+BP	GO:0045786	 240	 2.076	D05	negative regulation of cell cycle
+BP	GO:0031175	 223	 2.678	D05	neuron projection development
+BP	GO:0060627	 208	 2.002	D05	regulation of vesicle-mediated transport
+BP	GO:0007186	 179	 2.979	D05	G protein-coupled receptor signaling pathway
+BP	GO:0001654	 176	 2.803	D05	eye development
+BP	GO:0030036	 175	 2.803	D05	actin cytoskeleton organization
+BP	GO:0001819	 171	 2.002	D05	positive regulation of cytokine production
+BP	GO:0009792	 167	 2.678	D05	embryo development ending in birth or egg hatching
+BP	GO:0008643	 161	 2.678	D05	carbohydrate transport
+BP	GO:0001818	 158	 2.025	D05	negative regulation of cytokine production
+BP	GO:0015931	 157	 2.678	D05	nucleobase-containing compound transport
+BP	GO:0019058	 153	 3.280	D05	viral life cycle
+BP	GO:0030163	 143	 2.979	D05	protein catabolic process
+BP	GO:0045787	 137	 2.201	D05	positive regulation of cell cycle
+BP	GO:0010942	 117	 2.201	D05	positive regulation of cell death
+BP	GO:0051445	 112	 2.502	D05	regulation of meiotic cell cycle
+BP	GO:0006897	 107	 2.201	D05	endocytosis
+BP	GO:0051604	 102	 2.502	D05	protein maturation
+BP	GO:0097190	 100	 2.803	D05	apoptotic signaling pathway
+BP	GO:0042446	  99	 2.678	D05	hormone biosynthetic process
+BP	GO:0008284	  98	 2.076	D05	positive regulation of cell population proliferation
+BP	GO:0017000	  92	 2.377	D05	antibiotic biosynthetic process
+BP	GO:0008285	  91	 2.201	D05	negative regulation of cell population proliferation
+BP	GO:0000281	  76	 3.280	D05	mitotic cytokinesis
+BP	GO:0034599	  76	 2.979	D05	cellular response to oxidative stress
+BP	GO:0042594	  76	 2.979	D05	response to starvation
+BP	GO:0019336	  73	 2.502	D05	phenol-containing compound catabolic process
+BP	GO:0016311	  73	 2.166	D05	dephosphorylation
+BP	GO:0030879	  72	 3.280	D05	mammary gland development
+BP	GO:0043583	  65	 3.280	D05	ear development
+BP	GO:0031640	  63	 1.647	D05	killing of cells of other organism
+BP	GO:0021954	  48	 3.280	D05	central nervous system neuron development
+BP	GO:0060443	  41	 3.280	D05	mammary gland morphogenesis
+BP	GO:0048639	  40	 2.435	D05	positive regulation of developmental growth
+BP	GO:0016226	  38	 3.280	D05	iron-sulfur cluster assembly
+BP	GO:0007283	  36	 2.979	D05	spermatogenesis
+BP	GO:0051984	  35	 2.678	D05	positive regulation of chromosome segregation
+BP	GO:0019068	  34	 2.979	D05	virion assembly
+BP	GO:0051781	  31	 2.581	D05	positive regulation of cell division
+BP	GO:0014033	  31	 3.280	D05	neural crest cell differentiation
+BP	GO:0048831	  30	 2.678	D05	regulation of shoot system development
+BP	GO:0051782	  27	 2.678	D05	negative regulation of cell division
+BP	GO:0043388	  27	 2.979	D05	positive regulation of DNA binding
+BP	GO:0009312	  27	 2.502	D05	oligosaccharide biosynthetic process
+BP	GO:0019080	  27	 3.280	D05	viral gene expression
+BP	GO:0030101	  26	 2.979	D05	natural killer cell activation
+BP	GO:0001659	  26	 3.280	D05	temperature homeostasis
+BP	GO:0007424	  25	 3.280	D05	open tracheal system development
+BP	GO:0019079	  25	 2.377	D05	viral genome replication
+BP	GO:0007611	  24	 2.377	D05	learning or memory
+BP	GO:0009826	  23	 2.803	D05	unidimensional cell growth
+BP	GO:0090288	  22	 2.803	D05	negative regulation of cellular response to growth factor stimulus
+BP	GO:0001764	  22	 3.280	D05	neuron migration
+BP	GO:0007286	  21	 3.280	D05	spermatid development
+BP	GO:0051259	  21	 3.280	D05	protein complex oligomerization
+BP	GO:0001666	  20	 3.280	D05	response to hypoxia
+BP	GO:1901336	  18	 2.803	D05	lactone biosynthetic process
+BP	GO:0044650	  18	 1.958	D05	adhesion of symbiont to host cell
+BP	GO:0001756	  17	 3.280	D05	somitogenesis
+BP	GO:0060179	  17	 2.803	D05	male mating behavior
+BP	GO:0047484	  16	 3.280	D05	regulation of response to osmotic stress
+BP	GO:0097120	  16	 3.280	D05	receptor localization to synapse
+BP	GO:2000280	  15	 2.377	D05	regulation of root development
+BP	GO:0001889	  15	 3.280	D05	liver development
+BP	GO:0070787	  15	 2.979	D05	conidiophore development
+BP	GO:0019083	  15	 2.803	D05	viral transcription
+BP	GO:0071542	  14	 2.979	D05	dopaminergic neuron differentiation
+BP	GO:0009793	  14	 3.280	D05	embryo development ending in seed dormancy
+BP	GO:0060258	  13	 3.280	D05	negative regulation of filamentous growth
+BP	GO:0001843	  13	 3.280	D05	neural tube closure
+BP	GO:0008584	  13	 3.280	D05	male gonad development
+BP	GO:2000114	  12	 3.280	D05	regulation of establishment of cell polarity
+BP	GO:0070050	  11	 2.979	D05	neuron cellular homeostasis
+BP	GO:0060079	  11	 3.280	D05	excitatory postsynaptic potential
+BP	GO:0048709	  11	 3.280	D05	oligodendrocyte differentiation
+BP	GO:0002363	  11	 3.280	D05	alpha-beta T cell lineage commitment
+BP	GO:0034605	  11	 3.280	D05	cellular response to heat
+BP	GO:0009414	  11	 2.803	D05	response to water deprivation
+BP	GO:0009733	  11	 3.280	D05	response to auxin
+BP	GO:0000916	  10	 3.280	D05	actomyosin contractile ring contraction
+BP	GO:0043044	  10	 2.803	D05	ATP-dependent chromatin remodeling
+BP	GO:0060612	  10	 3.280	D05	adipose tissue development
+BP	GO:0046755	  10	 2.803	D05	viral budding
+BP	GO:0044277	   9	 3.280	D05	cell wall disassembly
+BP	GO:0090609	   9	 2.050	D05	single-species submerged biofilm formation
+BP	GO:0042116	   9	 2.979	D05	macrophage activation
+BP	GO:0006833	   9	 3.280	D05	water transport
+BP	GO:0009737	   8	 2.803	D05	response to abscisic acid
+BP	GO:0042255	   7	 3.280	D05	ribosome assembly
+BP	GO:0010811	   7	 2.435	D05	positive regulation of cell-substrate adhesion
+BP	GO:0009753	   7	 2.979	D05	response to jasmonic acid
+BP	GO:0009723	   7	 3.280	D05	response to ethylene
+BP	GO:0019069	   7	 2.502	D05	viral capsid assembly
+BP	GO:1901335	   6	 3.280	D05	lactone catabolic process
+BP	GO:0071786	   6	 2.979	D05	endoplasmic reticulum tubular network organization
+BP	GO:0009637	   6	 3.280	D05	response to blue light
+BP	GO:0052131	   6	 2.979	D05	positive aerotaxis
+BP	GO:0045918	   5	 3.280	D05	negative regulation of cytolysis
+BP	GO:0045667	   5	 2.979	D05	regulation of osteoblast differentiation
+BP	GO:0044319	   5	 3.280	D05	wound healing, spreading of cells
+BP	GO:0042249	   5	 3.280	D05	establishment of planar polarity of embryonic epithelium
+BP	GO:0090071	   4	 3.280	D05	negative regulation of ribosome biogenesis
+BP	GO:0070417	   4	 3.280	D05	cellular response to cold
+BP	GO:0009834	   4	 2.678	D05	plant-type secondary cell wall biogenesis
+BP	GO:0009297	   4	 2.678	D05	pilus assembly
+BP	GO:0033622	   4	 3.280	D05	integrin activation
+BP	GO:0008053	   4	 2.678	D05	mitochondrial fusion
+BP	GO:0043709	   4	 2.678	D05	cell adhesion involved in single-species biofilm formation
+BP	GO:0044407	   4	 2.979	D05	single-species biofilm formation in or on host organism
+BP	GO:0031281	   4	 2.803	D05	positive regulation of cyclase activity
+BP	GO:0043114	   4	 2.979	D05	regulation of vascular permeability
+BP	GO:0030279	   4	 2.678	D05	negative regulation of ossification
+BP	GO:0050885	   4	 3.280	D05	neuromuscular process controlling balance
+BP	GO:0010093	   4	 2.678	D05	specification of floral organ identity
+BP	GO:1900062	   3	 3.280	D05	regulation of replicative cell aging
+BP	GO:0051284	   3	 3.280	D05	positive regulation of sequestering of calcium ion
+BP	GO:1900192	   3	 2.201	D05	positive regulation of single-species biofilm formation
+BP	GO:1900191	   3	 2.326	D05	negative regulation of single-species biofilm formation
+BP	GO:0009767	   3	 3.280	D05	photosynthetic electron transport chain
+BP	GO:0014003	   3	 2.979	D05	oligodendrocyte development
+BP	GO:0014044	   3	 3.280	D05	Schwann cell development
+BP	GO:0035476	   3	 3.280	D05	angioblast cell migration
+BP	GO:0060327	   3	 3.280	D05	cytoplasmic actin-based contraction involved in cell motility
+BP	GO:0044780	   3	 2.050	D05	bacterial-type flagellum assembly
+BP	GO:0051312	   3	 3.280	D05	chromosome decondensation
+BP	GO:0030199	   3	 3.280	D05	collagen fibril organization
+BP	GO:0030325	   3	 2.979	D05	adrenal gland development
+BP	GO:0007156	   3	 3.280	D05	homophilic cell adhesion via plasma membrane adhesion molecules
+BP	GO:1903334	   2	 3.280	D05	positive regulation of protein folding
+BP	GO:0060080	   2	 2.979	D05	inhibitory postsynaptic potential
+BP	GO:1900231	   2	 2.076	D05	regulation of single-species biofilm formation on inanimate substrate
+BP	GO:0006999	   2	 2.979	D05	nuclear pore organization
+BP	GO:0070829	   2	 2.979	D05	heterochromatin maintenance
+BP	GO:0090161	   2	 2.979	D05	Golgi ribbon formation
+BP	GO:2000070	   2	 3.280	D05	regulation of response to water deprivation
+BP	GO:0010223	   2	 3.280	D05	secondary shoot formation
+BP	GO:0050826	   2	 3.280	D05	response to freezing
+BP	GO:0098003	   2	 2.979	D05	viral tail assembly
+BP	GO:0019046	   2	 3.280	D05	release from viral latency
+BP	GO:0060237	   1	 3.280	D05	regulation of fungal-type cell wall organization
+BP	GO:0070307	   1	 3.280	D05	lens fiber cell development
+BP	GO:0097105	   1	 2.803	D05	presynaptic membrane assembly
+BP	GO:0090400	   1	 3.280	D05	stress-induced premature senescence
+BP	GO:0009372	   1	 2.803	D05	quorum sensing
+BP	GO:0090527	   1	 3.280	D05	actin filament reorganization
+BP	GO:0051256	   1	 3.280	D05	mitotic spindle midzone assembly
+BP	GO:0033252	   1	 3.280	D05	regulation of beta-lactamase activity
+BP	GO:0033630	   1	 3.280	D05	positive regulation of cell adhesion mediated by integrin
+BP	GO:0010286	   1	 3.280	D05	heat acclimation
+BP	GO:0070849	   1	 3.280	D05	response to epidermal growth factor
+BP	GO:0032355	   1	 3.280	D05	response to estradiol
+BP	GO:0020035	   1	 3.280	D05	cytoadherence to microvasculature, mediated by symbiont protein
+BP	GO:0080157	   0	 3.280	D05	regulation of plant-type cell wall organization or biogenesis
+BP	GO:0046716	   0	 2.979	D05	muscle cell cellular homeostasis
+BP	GO:0019340	   0	 2.979	D05	dibenzofuran catabolic process
+BP	GO:0045163	   0	 3.280	D05	clustering of voltage-gated potassium channels
+BP	GO:0070073	   0	 3.280	D05	clustering of voltage-gated calcium channels
+BP	GO:0072675	   0	 3.280	D05	osteoclast fusion
+BP	GO:0009432	   0	 3.280	D05	SOS response
+BP	GO:0071245	   0	 3.280	D05	cellular response to carbon monoxide
+BP	GO:1990456	   0	 3.280	D05	mitochondrion-endoplasmic reticulum membrane tethering
+BP	GO:0009833	   0	 2.979	D05	plant-type primary cell wall biogenesis
+BP	GO:0061952	   0	 3.280	D05	midbody abscission
+BP	GO:0071765	   0	 3.280	D05	nuclear inner membrane organization
+BP	GO:0090606	   0	 2.803	D05	single-species surface biofilm formation
+BP	GO:0010918	   0	 3.280	D05	positive regulation of mitochondrial membrane potential
+BP	GO:0060257	   0	 3.280	D05	negative regulation of flocculation
+BP	GO:0040010	   0	 3.280	D05	positive regulation of growth rate
+BP	GO:0042619	   0	 3.280	D05	poly-hydroxybutyrate biosynthetic process
+BP	GO:0061304	   0	 3.280	D05	retinal blood vessel morphogenesis
+BP	GO:0060971	   0	 3.280	D05	embryonic heart tube left/right pattern formation
+BP	GO:0060716	   0	 3.280	D05	labyrinthine layer blood vessel development
+BP	GO:0098867	   0	 3.280	D05	intramembranous bone growth
+BP	GO:0048047	   0	 3.280	D05	mating behavior, sex discrimination
+BP	GO:0042711	   0	 3.280	D05	maternal behavior
+BP	GO:0090251	   0	 2.979	D05	protein localization involved in establishment of planar polarity
+BP	GO:0009631	   0	 2.979	D05	cold acclimation
+BP	GO:0098005	   0	 3.280	D05	viral head-tail joining
+BP	GO:0098004	   0	 2.803	D05	virus tail fiber assembly
+BP	GO:0019082	   0	 2.979	D05	viral protein processing
+BP	GO:0098669	   0	 3.280	D05	superinfection exclusion
+BP	GO:0075004	   0	 3.280	D05	adhesion of symbiont spore to host
+BP	GO:0052001	   0	 2.326	D05	type IV pili-dependent localized adherence to host
+BP	GO:0007157	   0	 2.979	D05	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
+BP	GO:0010629	 340	 1.312	D06	negative regulation of gene expression
+BP	GO:0009968	 312	 1.818	D06	negative regulation of signal transduction
+BP	GO:0051247	 304	 1.540	D06	positive regulation of protein metabolic process
+BP	GO:0042981	 279	 1.736	D06	regulation of apoptotic process
+BP	GO:0030001	 278	 2.166	D06	metal ion transport
+BP	GO:0050767	 228	 1.882	D06	regulation of neurogenesis
+BP	GO:0030334	 223	 1.775	D06	regulation of cell migration
+BP	GO:0010628	 219	 1.268	D06	positive regulation of gene expression
+BP	GO:0010608	 213	 1.789	D06	posttranscriptional regulation of gene expression
+BP	GO:0043009	 146	 2.979	D06	chordate embryonic development
+BP	GO:0019048	 141	 1.509	D06	modulation by virus of host morphology or physiology
+BP	GO:0008299	 120	 1.701	D06	isoprenoid biosynthetic process
+BP	GO:0043068	 111	 2.239	D06	positive regulation of programmed cell death
+BP	GO:2000147	  78	 1.979	D06	positive regulation of cell motility
+BP	GO:2000146	  77	 2.104	D06	negative regulation of cell motility
+BP	GO:0090150	  72	 2.979	D06	establishment of protein localization to membrane
+BP	GO:2001020	  67	 2.377	D06	regulation of response to DNA damage stimulus
+BP	GO:0016485	  58	 2.678	D06	protein processing
+BP	GO:0030866	  56	 2.979	D06	cortical actin cytoskeleton organization
+BP	GO:0042742	  55	 2.435	D06	defense response to bacterium
+BP	GO:0040019	  52	 2.803	D06	positive regulation of embryonic development
+BP	GO:0031346	  51	 2.002	D06	positive regulation of cell projection organization
+BP	GO:0010506	  49	 2.435	D06	regulation of autophagy
+BP	GO:0031333	  49	 2.502	D06	negative regulation of protein-containing complex assembly
+BP	GO:0006898	  49	 2.435	D06	receptor-mediated endocytosis
+BP	GO:0030183	  47	 3.280	D06	B cell differentiation
+BP	GO:0019217	  46	 2.678	D06	regulation of fatty acid metabolic process
+BP	GO:0042098	  46	 3.280	D06	T cell proliferation
+BP	GO:0030260	  43	 2.166	D06	entry into host cell
+BP	GO:0009061	  39	 2.678	D06	anaerobic respiration
+BP	GO:0034504	  37	 2.581	D06	protein localization to nucleus
+BP	GO:0051446	  36	 2.678	D06	positive regulation of meiotic cell cycle
+BP	GO:0046939	  36	 3.280	D06	nucleotide phosphorylation
+BP	GO:0008360	  26	 3.280	D06	regulation of cell shape
+BP	GO:0072659	  26	 2.803	D06	protein localization to plasma membrane
+BP	GO:0034101	  24	 3.280	D06	erythrocyte homeostasis
+BP	GO:0050832	  24	 2.803	D06	defense response to fungus
+BP	GO:0051607	  24	 2.803	D06	defense response to virus
+BP	GO:0050764	  23	 2.803	D06	regulation of phagocytosis
+BP	GO:0060271	  23	 2.803	D06	cilium assembly
+BP	GO:0030308	  22	 2.678	D06	negative regulation of cell growth
+BP	GO:0030307	  22	 2.803	D06	positive regulation of cell growth
+BP	GO:0075733	  22	 2.979	D06	intracellular transport of virus
+BP	GO:0030437	  21	 3.280	D06	ascospore formation
+BP	GO:0006067	  20	 2.979	D06	ethanol metabolic process
+BP	GO:0043113	  20	 2.581	D06	receptor clustering
+BP	GO:0051149	  19	 3.280	D06	positive regulation of muscle cell differentiation
+BP	GO:0042462	  19	 2.979	D06	eye photoreceptor cell development
+BP	GO:0051715	  19	 2.239	D06	cytolysis in other organism
+BP	GO:0048524	  18	 2.502	D06	positive regulation of viral process
+BP	GO:0050679	  17	 2.803	D06	positive regulation of epithelial cell proliferation
+BP	GO:0051017	  17	 2.979	D06	actin filament bundle assembly
+BP	GO:0050909	  17	 3.280	D06	sensory perception of taste
+BP	GO:0052116	  17	 2.979	D06	chemotaxis in host environment
+BP	GO:0007612	  16	 2.502	D06	learning
+BP	GO:0048489	  16	 3.280	D06	synaptic vesicle transport
+BP	GO:0006888	  14	 3.280	D06	endoplasmic reticulum to Golgi vesicle-mediated transport
+BP	GO:0045881	  13	 2.803	D06	positive regulation of sporulation resulting in formation of a cellular spore
+BP	GO:0042593	  13	 2.979	D06	glucose homeostasis
+BP	GO:2000194	  13	 2.979	D06	regulation of female gonad development
+BP	GO:0061512	  13	 3.280	D06	protein localization to cilium
+BP	GO:0007050	  12	 2.581	D06	cell cycle arrest
+BP	GO:0042174	  12	 2.979	D06	negative regulation of sporulation resulting in formation of a cellular spore
+BP	GO:0007020	  12	 3.280	D06	microtubule nucleation
+BP	GO:0031155	  12	 2.979	D06	regulation of reproductive fruiting body development
+BP	GO:0019062	  12	 2.201	D06	virion attachment to host cell
+BP	GO:0006578	  11	 3.280	D06	amino-acid betaine biosynthetic process
+BP	GO:0032106	  11	 2.979	D06	positive regulation of response to extracellular stimulus
+BP	GO:0048048	  11	 2.803	D06	embryonic eye morphogenesis
+BP	GO:0000160	  10	 2.280	D06	phosphorelay signal transduction system
+BP	GO:0001755	  10	 3.280	D06	neural crest cell migration
+BP	GO:2000378	   9	 2.803	D06	negative regulation of reactive oxygen species metabolic process
+BP	GO:0032780	   9	 3.280	D06	negative regulation of ATPase activity
+BP	GO:0006012	   9	 3.280	D06	galactose metabolic process
+BP	GO:0033619	   9	 3.280	D06	membrane protein proteolysis
+BP	GO:0048573	   9	 3.280	D06	photoperiodism, flowering
+BP	GO:0021785	   8	 3.280	D06	branchiomotor neuron axon guidance
+BP	GO:0032781	   8	 3.280	D06	positive regulation of ATPase activity
+BP	GO:0035166	   8	 3.280	D06	post-embryonic hemopoiesis
+BP	GO:0035162	   8	 3.280	D06	embryonic hemopoiesis
+BP	GO:2000891	   7	 3.280	D06	cellobiose metabolic process
+BP	GO:0019662	   7	 3.280	D06	non-glycolytic fermentation
+BP	GO:0009809	   7	 2.803	D06	lignin biosynthetic process
+BP	GO:0036135	   7	 3.280	D06	Schwann cell migration
+BP	GO:0051293	   7	 2.979	D06	establishment of spindle localization
+BP	GO:0010761	   7	 3.280	D06	fibroblast migration
+BP	GO:0007099	   7	 3.280	D06	centriole replication
+BP	GO:0032480	   7	 2.280	D06	negative regulation of type I interferon production
+BP	GO:0046622	   7	 3.280	D06	positive regulation of organ growth
+BP	GO:0048527	   7	 3.280	D06	lateral root development
+BP	GO:0039693	   7	 2.979	D06	viral DNA genome replication
+BP	GO:0030317	   6	 3.280	D06	flagellated sperm motility
+BP	GO:0032481	   6	 2.435	D06	positive regulation of type I interferon production
+BP	GO:2000028	   6	 2.581	D06	regulation of photoperiodism, flowering
+BP	GO:0046621	   6	 2.979	D06	negative regulation of organ growth
+BP	GO:0032509	   6	 3.280	D06	endosome transport via multivesicular body sorting pathway
+BP	GO:0019073	   6	 2.280	D06	viral DNA genome packaging
+BP	GO:0070868	   5	 2.979	D06	heterochromatin organization involved in chromatin silencing
+BP	GO:0014842	   5	 3.280	D06	regulation of skeletal muscle satellite cell proliferation
+BP	GO:0042438	   5	 2.979	D06	melanin biosynthetic process
+BP	GO:0071973	   5	 1.712	D06	bacterial-type flagellum-dependent cell motility
+BP	GO:0061036	   5	 2.979	D06	positive regulation of cartilage development
+BP	GO:2000018	   5	 3.280	D06	regulation of male gonad development
+BP	GO:0010229	   5	 3.280	D06	inflorescence development
+BP	GO:0006890	   5	 3.280	D06	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum
+BP	GO:0042744	   4	 3.280	D06	hydrogen peroxide catabolic process
+BP	GO:0072015	   4	 3.280	D06	glomerular visceral epithelial cell development
+BP	GO:0046847	   4	 3.280	D06	filopodium assembly
+BP	GO:0032438	   4	 3.280	D06	melanosome organization
+BP	GO:0009926	   4	 2.979	D06	auxin polar transport
+BP	GO:0015945	   4	 3.280	D06	methanol metabolic process
+BP	GO:0048450	   4	 2.979	D06	floral organ structural organization
+BP	GO:0007613	   4	 2.979	D06	memory
+BP	GO:0075509	   4	 2.581	D06	endocytosis involved in viral entry into host cell
+BP	GO:0097050	   3	 3.280	D06	type B pancreatic cell apoptotic process
+BP	GO:0001836	   3	 3.280	D06	release of cytochrome c from mitochondria
+BP	GO:0070561	   3	 3.280	D06	vitamin D receptor signaling pathway
+BP	GO:0016082	   3	 3.280	D06	synaptic vesicle priming
+BP	GO:2000648	   3	 2.803	D06	positive regulation of stem cell proliferation
+BP	GO:0043419	   3	 3.280	D06	urea catabolic process
+BP	GO:0034446	   3	 3.280	D06	substrate adhesion-dependent cell spreading
+BP	GO:0043683	   3	 2.979	D06	type IV pilus biogenesis
+BP	GO:0007130	   3	 3.280	D06	synaptonemal complex assembly
+BP	GO:0044011	   3	 2.502	D06	single-species biofilm formation on inanimate substrate
+BP	GO:0097091	   3	 3.280	D06	synaptic vesicle clustering
+BP	GO:0044651	   3	 2.979	D06	adhesion of symbiont to host epithelial cell
+BP	GO:0070623	   2	 3.280	D06	regulation of thiamine biosynthetic process
+BP	GO:2000074	   2	 3.280	D06	regulation of type B pancreatic cell development
+BP	GO:1902033	   2	 3.280	D06	regulation of hematopoietic stem cell proliferation
+BP	GO:0080036	   2	 2.678	D06	regulation of cytokinin-activated signaling pathway
+BP	GO:1902021	   2	 2.803	D06	regulation of bacterial-type flagellum-dependent cell motility
+BP	GO:2000810	   2	 3.280	D06	regulation of bicellular tight junction assembly
+BP	GO:1903371	   2	 3.280	D06	regulation of endoplasmic reticulum tubular network organization
+BP	GO:0048147	   2	 3.280	D06	negative regulation of fibroblast proliferation
+BP	GO:0048146	   2	 2.979	D06	positive regulation of fibroblast proliferation
+BP	GO:0010189	   2	 3.280	D06	vitamin E biosynthetic process
+BP	GO:0060117	   2	 3.280	D06	auditory receptor cell development
+BP	GO:0097107	   2	 3.280	D06	postsynaptic density assembly
+BP	GO:0071468	   2	 3.280	D06	cellular response to acidic pH
+BP	GO:0034333	   2	 3.280	D06	adherens junction assembly
+BP	GO:0030951	   2	 3.280	D06	establishment or maintenance of microtubule cytoskeleton polarity
+BP	GO:0032757	   2	 2.678	D06	positive regulation of interleukin-8 production
+BP	GO:0032715	   2	 2.803	D06	negative regulation of interleukin-6 production
+BP	GO:0032695	   2	 3.280	D06	negative regulation of interleukin-12 production
+BP	GO:0032755	   2	 2.502	D06	positive regulation of interleukin-6 production
+BP	GO:1901509	   2	 3.280	D06	regulation of endothelial tube morphogenesis
+BP	GO:0010884	   2	 3.280	D06	positive regulation of lipid storage
+BP	GO:0010888	   2	 3.280	D06	negative regulation of lipid storage
+BP	GO:0097264	   2	 2.803	D06	self proteolysis
+BP	GO:0006044	   2	 3.280	D06	N-acetylglucosamine metabolic process
+BP	GO:0007601	   2	 3.280	D06	visual perception
+BP	GO:0060216	   2	 3.280	D06	definitive hemopoiesis
+BP	GO:0015840	   2	 2.979	D06	urea transport
+BP	GO:0042811	   1	 3.280	D06	pheromone biosynthetic process
+BP	GO:0045668	   1	 3.280	D06	negative regulation of osteoblast differentiation
+BP	GO:0045663	   1	 2.979	D06	positive regulation of myoblast differentiation
+BP	GO:0045600	   1	 3.280	D06	positive regulation of fat cell differentiation
+BP	GO:0045662	   1	 2.979	D06	negative regulation of myoblast differentiation
+BP	GO:0060140	   1	 3.280	D06	modulation by virus of syncytium formation via plasma membrane fusion
+BP	GO:0045793	   1	 3.280	D06	positive regulation of cell size
+BP	GO:2000288	   1	 3.280	D06	positive regulation of myoblast proliferation
+BP	GO:0033629	   1	 2.979	D06	negative regulation of cell adhesion mediated by integrin
+BP	GO:0042128	   1	 3.280	D06	nitrate assimilation
+BP	GO:0046835	   1	 3.280	D06	carbohydrate phosphorylation
+BP	GO:0010584	   1	 3.280	D06	pollen exine formation
+BP	GO:0090176	   1	 3.280	D06	microtubule cytoskeleton organization involved in establishment of planar polarity
+BP	GO:0097119	   1	 2.803	D06	postsynaptic density protein 95 clustering
+BP	GO:0051292	   1	 3.280	D06	nuclear pore complex assembly
+BP	GO:0090164	   1	 2.979	D06	asymmetric Golgi ribbon formation
+BP	GO:0043547	   1	 2.678	D06	positive regulation of GTPase activity
+BP	GO:0055092	   1	 2.979	D06	sterol homeostasis
+BP	GO:0032725	   1	 2.803	D06	positive regulation of granulocyte macrophage colony-stimulating factor production
+BP	GO:0060313	   1	 2.979	D06	negative regulation of blood vessel remodeling
+BP	GO:2000344	   1	 3.280	D06	positive regulation of acrosome reaction
+BP	GO:0032570	   1	 3.280	D06	response to progesterone
+BP	GO:0002215	   1	 3.280	D06	defense response to nematode
+BP	GO:0032260	   1	 3.280	D06	response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance
+BP	GO:0044008	   1	 3.280	D06	dissemination or transmission of symbiont from host by vector
+BP	GO:0039708	   1	 3.280	D06	nuclear capsid assembly
+BP	GO:1905157	   0	 3.280	D06	positive regulation of photosynthesis
+BP	GO:1905087	   0	 2.678	D06	positive regulation of bioluminescence
+BP	GO:0035389	   0	 3.280	D06	establishment of chromatin silencing at silent mating-type cassette
+BP	GO:0019227	   0	 3.280	D06	neuronal action potential propagation
+BP	GO:0051684	   0	 3.280	D06	maintenance of Golgi location
+BP	GO:1901348	   0	 3.280	D06	positive regulation of secondary cell wall biogenesis
+BP	GO:0045792	   0	 3.280	D06	negative regulation of cell size
+BP	GO:1900232	   0	 2.803	D06	negative regulation of single-species biofilm formation on inanimate substrate
+BP	GO:1900233	   0	 2.581	D06	positive regulation of single-species biofilm formation on inanimate substrate
+BP	GO:1900229	   0	 3.280	D06	negative regulation of single-species biofilm formation in or on host organism
+BP	GO:1902732	   0	 3.280	D06	positive regulation of chondrocyte proliferation
+BP	GO:0033690	   0	 3.280	D06	positive regulation of osteoblast proliferation
+BP	GO:1902731	   0	 3.280	D06	negative regulation of chondrocyte proliferation
+BP	GO:0019645	   0	 3.280	D06	anaerobic electron transport chain
+BP	GO:0009244	   0	 2.803	D06	lipopolysaccharide core region biosynthetic process
+BP	GO:0032324	   0	 2.803	D06	molybdopterin cofactor biosynthetic process
+BP	GO:0022417	   0	 3.280	D06	protein maturation by protein folding
+BP	GO:0019295	   0	 3.280	D06	coenzyme M biosynthetic process
+BP	GO:0061030	   0	 3.280	D06	epithelial cell differentiation involved in mammary gland alveolus development
+BP	GO:0032286	   0	 3.280	D06	central nervous system myelin maintenance
+BP	GO:0034301	   0	 2.979	D06	endospore formation
+BP	GO:0048312	   0	 3.280	D06	intracellular distribution of mitochondria
+BP	GO:0097117	   0	 3.280	D06	guanylate kinase-associated protein clustering
+BP	GO:0097250	   0	 3.280	D06	mitochondrial respirasome assembly
+BP	GO:1990227	   0	 3.280	D06	paranodal junction maintenance
+BP	GO:0016584	   0	 2.979	D06	nucleosome positioning
+BP	GO:0043707	   0	 3.280	D06	cell adhesion involved in single-species biofilm formation in or on host organism
+BP	GO:0034260	   0	 2.979	D06	negative regulation of GTPase activity
+BP	GO:0040018	   0	 3.280	D06	positive regulation of multicellular organism growth
+BP	GO:0010082	   0	 2.581	D06	regulation of root meristem growth
+BP	GO:0060134	   0	 3.280	D06	prepulse inhibition
+BP	GO:0033326	   0	 3.280	D06	cerebrospinal fluid secretion
+BP	GO:0098689	   0	 3.280	D06	latency-replication decision
+BP	GO:1905228	   0	 3.280	D06	positive regulation of adhesion of symbiont to host epithelial cell
+BP	GO:0035897	   0	 3.280	D06	proteolysis in other organism
+BP	GO:0003138	   0	 2.979	D06	primary heart field specification
+BP	GO:0003139	   0	 2.979	D06	secondary heart field specification
+BP	GO:0035116	   0	 3.280	D06	embryonic hindlimb morphogenesis
+BP	GO:0035847	   0	 3.280	D06	uterine epithelium development
+BP	GO:0009819	   0	 3.280	D06	drought recovery
+BP	GO:0009401	   0	 3.280	D06	phosphoenolpyruvate-dependent sugar phosphotransferase system
+BP	GO:0089705	   0	 2.581	D06	protein localization to outer membrane
+BP	GO:0039695	   0	 3.280	D06	DNA-templated viral transcription
+BP	GO:0019074	   0	 3.280	D06	viral RNA genome packaging
+BP	GO:0019086	   0	 3.280	D06	late viral transcription
+BP	GO:0044847	   0	 3.280	D06	iron acquisition from host
+BP	GO:2001141	 442	 1.084	D07	regulation of RNA biosynthetic process
+BP	GO:0006468	 255	 1.657	D07	protein phosphorylation
+BP	GO:0042325	 229	 1.581	D07	regulation of phosphorylation
+BP	GO:0007268	 198	 2.502	D07	chemical synaptic transmission
+BP	GO:0006631	 159	 2.502	D07	fatty acid metabolic process
+BP	GO:0006310	 155	 2.581	D07	DNA recombination
+BP	GO:0048812	 155	 2.377	D07	neuron projection morphogenesis
+BP	GO:1902275	 152	 2.076	D07	regulation of chromatin organization
+BP	GO:0045089	 144	 2.581	D07	positive regulation of innate immune response
+BP	GO:0016055	 138	 2.803	D07	Wnt signaling pathway
+BP	GO:0006281	 134	 1.724	D07	DNA repair
+BP	GO:0050708	 123	 2.134	D07	regulation of protein secretion
+BP	GO:0016458	 117	 2.377	D07	gene silencing
+BP	GO:0019054	 102	 1.803	D07	modulation by virus of host cellular process
+BP	GO:0043065	  94	 2.502	D07	positive regulation of apoptotic process
+BP	GO:0032956	  94	 2.239	D07	regulation of actin cytoskeleton organization
+BP	GO:0043066	  92	 1.849	D07	negative regulation of apoptotic process
+BP	GO:0050769	  73	 1.979	D07	positive regulation of neurogenesis
+BP	GO:0030335	  73	 2.050	D07	positive regulation of cell migration
+BP	GO:0030336	  72	 2.201	D07	negative regulation of cell migration
+BP	GO:0051053	  68	 2.377	D07	negative regulation of DNA metabolic process
+BP	GO:0033157	  65	 2.581	D07	regulation of intracellular protein transport
+BP	GO:0070507	  63	 2.326	D07	regulation of microtubule cytoskeleton organization
+BP	GO:1901990	  58	 2.803	D07	regulation of mitotic cell cycle phase transition
+BP	GO:0030682	  56	 1.789	D07	mitigation of host defenses by symbiont
+BP	GO:0044413	  56	 1.789	D07	mitigation of host defenses by symbiont
+BP	GO:0051055	  54	 2.678	D07	negative regulation of lipid biosynthetic process
+BP	GO:0046889	  54	 2.435	D07	positive regulation of lipid biosynthetic process
+BP	GO:0000723	  53	 3.280	D07	telomere maintenance
+BP	GO:0010498	  50	 3.280	D07	proteasomal protein catabolic process
+BP	GO:0006813	  46	 2.803	D07	potassium ion transport
+BP	GO:1902412	  44	 3.280	D07	regulation of mitotic cytokinesis
+BP	GO:0001701	  41	 3.280	D07	in utero embryonic development
+BP	GO:0046718	  37	 2.326	D07	viral entry into host cell
+BP	GO:0032204	  35	 2.979	D07	regulation of telomere maintenance
+BP	GO:0006470	  34	 2.239	D07	protein dephosphorylation
+BP	GO:0000820	  29	 2.979	D07	regulation of glutamine family amino acid metabolic process
+BP	GO:0050728	  29	 2.678	D07	negative regulation of inflammatory response
+BP	GO:0050805	  28	 2.502	D07	negative regulation of synaptic transmission
+BP	GO:0007052	  28	 3.280	D07	mitotic spindle organization
+BP	GO:0052043	  27	 2.166	D07	modification by symbiont of host cellular component
+BP	GO:0010906	  24	 2.803	D07	regulation of glucose metabolic process
+BP	GO:0045824	  24	 2.803	D07	negative regulation of innate immune response
+BP	GO:0051873	  24	 2.435	D07	killing by host of symbiont cells
+BP	GO:0006083	  23	 2.678	D07	acetate metabolic process
+BP	GO:0030041	  22	 3.280	D07	actin filament polymerization
+BP	GO:0016119	  21	 3.280	D07	carotene metabolic process
+BP	GO:0090303	  21	 2.678	D07	positive regulation of wound healing
+BP	GO:0010508	  20	 2.678	D07	positive regulation of autophagy
+BP	GO:0010770	  20	 2.239	D07	positive regulation of cell morphogenesis involved in differentiation
+BP	GO:0033313	  20	 3.280	D07	meiotic cell cycle checkpoint
+BP	GO:0045732	  20	 2.678	D07	positive regulation of protein catabolic process
+BP	GO:0061045	  20	 2.581	D07	negative regulation of wound healing
+BP	GO:0001907	  20	 1.818	D07	killing by symbiont of host cells
+BP	GO:0052040	  19	 2.134	D07	modulation by symbiont of host programmed cell death
+BP	GO:0006270	  19	 3.280	D07	DNA replication initiation
+BP	GO:0032466	  18	 3.280	D07	negative regulation of cytokinesis
+BP	GO:0042177	  18	 2.803	D07	negative regulation of protein catabolic process
+BP	GO:1902806	  16	 2.803	D07	regulation of cell cycle G1/S phase transition
+BP	GO:0030177	  16	 2.678	D07	positive regulation of Wnt signaling pathway
+BP	GO:0034756	  16	 3.280	D07	regulation of iron ion transport
+BP	GO:0009749	  16	 2.803	D07	response to glucose
+BP	GO:0032945	  14	 2.979	D07	negative regulation of mononuclear cell proliferation
+BP	GO:0007080	  14	 3.280	D07	mitotic metaphase plate congression
+BP	GO:0050996	  14	 3.280	D07	positive regulation of lipid catabolic process
+BP	GO:0046425	  13	 2.166	D07	regulation of receptor signaling pathway via JAK-STAT
+BP	GO:0005982	  13	 2.979	D07	starch metabolic process
+BP	GO:0032508	  13	 2.803	D07	DNA duplex unwinding
+BP	GO:0032272	  12	 2.803	D07	negative regulation of protein polymerization
+BP	GO:0070198	  12	 2.979	D07	protein localization to chromosome, telomeric region
+BP	GO:0048488	  12	 2.979	D07	synaptic vesicle endocytosis
+BP	GO:0015995	  11	 2.502	D07	chlorophyll biosynthetic process
+BP	GO:1901856	  10	 3.280	D07	negative regulation of cellular respiration
+BP	GO:0006471	  10	 2.678	D07	protein ADP-ribosylation
+BP	GO:0007143	  10	 3.280	D07	female meiotic nuclear division
+BP	GO:0048596	  10	 3.280	D07	embryonic camera-type eye morphogenesis
+BP	GO:0050829	  10	 2.979	D07	defense response to Gram-negative bacterium
+BP	GO:2000904	   9	 3.280	D07	regulation of starch metabolic process
+BP	GO:0050766	   9	 3.280	D07	positive regulation of phagocytosis
+BP	GO:2000001	   8	 3.280	D07	regulation of DNA damage checkpoint
+BP	GO:0032006	   8	 3.280	D07	regulation of TOR signaling
+BP	GO:0006032	   8	 2.979	D07	chitin catabolic process
+BP	GO:0045916	   8	 3.280	D07	negative regulation of complement activation
+BP	GO:0046823	   8	 2.979	D07	negative regulation of nucleocytoplasmic transport
+BP	GO:0000730	   7	 3.280	D07	DNA recombinase assembly
+BP	GO:0010518	   7	 3.280	D07	positive regulation of phospholipase activity
+BP	GO:0046813	   7	 2.581	D07	receptor-mediated virion attachment to host cell
+BP	GO:0043944	   6	 3.280	D07	negative regulation of asexual sporulation resulting in formation of a cellular spore
+BP	GO:0043945	   6	 3.280	D07	positive regulation of asexual sporulation resulting in formation of a cellular spore
+BP	GO:0070059	   6	 3.280	D07	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+BP	GO:0045766	   6	 2.803	D07	positive regulation of angiogenesis
+BP	GO:0042487	   6	 3.280	D07	regulation of odontogenesis of dentin-containing tooth
+BP	GO:0006695	   6	 3.280	D07	cholesterol biosynthetic process
+BP	GO:0008306	   6	 2.678	D07	associative learning
+BP	GO:0071850	   5	 2.803	D07	mitotic cell cycle arrest
+BP	GO:0051965	   5	 2.678	D07	positive regulation of synapse assembly
+BP	GO:0070297	   5	 2.979	D07	regulation of phosphorelay signal transduction system
+BP	GO:0015074	   5	 3.280	D07	DNA integration
+BP	GO:0015996	   5	 3.280	D07	chlorophyll catabolic process
+BP	GO:0005987	   5	 3.280	D07	sucrose catabolic process
+BP	GO:0046596	   5	 2.581	D07	regulation of viral entry into host cell
+BP	GO:0060337	   4	 2.979	D07	type I interferon signaling pathway
+BP	GO:0060300	   4	 2.979	D07	regulation of cytokine activity
+BP	GO:0050765	   4	 3.280	D07	negative regulation of phagocytosis
+BP	GO:0006515	   4	 3.280	D07	protein quality control for misfolded or incompletely synthesized proteins
+BP	GO:0045490	   4	 3.280	D07	pectin catabolic process
+BP	GO:0071475	   4	 3.280	D07	cellular hyperosmotic salinity response
+BP	GO:0000921	   4	 3.280	D07	septin ring assembly
+BP	GO:0019064	   4	 3.280	D07	fusion of virus membrane with host plasma membrane
+BP	GO:0050687	   4	 2.979	D07	negative regulation of defense response to virus
+BP	GO:0075294	   4	 3.280	D07	positive regulation by symbiont of entry into host
+BP	GO:0071271	   4	 2.979	D07	1-butanol biosynthetic process
+BP	GO:0090480	   4	 3.280	D07	purine nucleotide-sugar transmembrane transport
+BP	GO:0019087	   4	 2.979	D07	transformation of host cell by virus
+BP	GO:1900705	   3	 3.280	D07	negative regulation of siderophore biosynthetic process
+BP	GO:0021910	   3	 3.280	D07	smoothened signaling pathway involved in ventral spinal cord patterning
+BP	GO:0046628	   3	 3.280	D07	positive regulation of insulin receptor signaling pathway
+BP	GO:0005990	   3	 3.280	D07	lactose catabolic process
+BP	GO:2000892	   3	 3.280	D07	cellobiose catabolic process
+BP	GO:0009103	   3	 2.581	D07	lipopolysaccharide biosynthetic process
+BP	GO:0001731	   3	 3.280	D07	formation of translation preinitiation complex
+BP	GO:0071895	   3	 3.280	D07	odontoblast differentiation
+BP	GO:0043652	   3	 3.280	D07	engulfment of apoptotic cell
+BP	GO:0034058	   3	 3.280	D07	endosomal vesicle fusion
+BP	GO:0061075	   3	 2.979	D07	positive regulation of neural retina development
+BP	GO:1900182	   3	 2.803	D07	positive regulation of protein localization to nucleus
+BP	GO:0032897	   3	 3.280	D07	negative regulation of viral transcription
+BP	GO:0072554	   3	 3.280	D07	blood vessel lumenization
+BP	GO:1903427	   2	 3.280	D07	negative regulation of reactive oxygen species biosynthetic process
+BP	GO:0045977	   2	 3.280	D07	positive regulation of mitotic cell cycle, embryonic
+BP	GO:1900038	   2	 3.280	D07	negative regulation of cellular response to hypoxia
+BP	GO:0010803	   2	 2.979	D07	regulation of tumor necrosis factor-mediated signaling pathway
+BP	GO:0046627	   2	 2.803	D07	negative regulation of insulin receptor signaling pathway
+BP	GO:2000331	   2	 2.803	D07	regulation of terminal button organization
+BP	GO:0060024	   2	 3.280	D07	rhythmic synaptic transmission
+BP	GO:0009305	   2	 3.280	D07	protein biotinylation
+BP	GO:0005992	   2	 3.280	D07	trehalose biosynthetic process
+BP	GO:0051725	   2	 3.280	D07	protein de-ADP-ribosylation
+BP	GO:0033683	   2	 3.280	D07	nucleotide-excision repair, DNA incision
+BP	GO:0044179	   2	 2.435	D07	hemolysis in other organism
+BP	GO:0032720	   2	 2.678	D07	negative regulation of tumor necrosis factor production
+BP	GO:0032728	   2	 2.678	D07	positive regulation of interferon-beta production
+BP	GO:0032691	   2	 2.979	D07	negative regulation of interleukin-1 beta production
+BP	GO:0032760	   2	 2.979	D07	positive regulation of tumor necrosis factor production
+BP	GO:0032688	   2	 2.678	D07	negative regulation of interferon-beta production
+BP	GO:1904086	   2	 3.280	D07	regulation of epiboly involved in gastrulation with mouth forming second
+BP	GO:0048586	   2	 2.979	D07	regulation of long-day photoperiodism, flowering
+BP	GO:1900015	   2	 2.979	D07	regulation of cytokine production involved in inflammatory response
+BP	GO:0048065	   2	 3.280	D07	male courtship behavior, veined wing extension
+BP	GO:0015706	   2	 2.979	D07	nitrate transport
+BP	GO:0090435	   2	 2.979	D07	protein localization to nuclear envelope
+BP	GO:0019065	   2	 2.803	D07	receptor-mediated endocytosis of virus by host cell
+BP	GO:0035635	   2	 3.280	D07	entry of bacterium into host cell
+BP	GO:2000646	   1	 3.280	D07	positive regulation of receptor catabolic process
+BP	GO:0070870	   1	 3.280	D07	heterochromatin maintenance involved in chromatin silencing
+BP	GO:1903343	   1	 3.280	D07	positive regulation of meiotic DNA double-strand break formation
+BP	GO:0090129	   1	 3.280	D07	positive regulation of synapse maturation
+BP	GO:0060501	   1	 3.280	D07	positive regulation of epithelial cell proliferation involved in lung morphogenesis
+BP	GO:0051971	   1	 3.280	D07	positive regulation of transmission of nerve impulse
+BP	GO:0045746	   1	 3.280	D07	negative regulation of Notch signaling pathway
+BP	GO:0035795	   1	 3.280	D07	negative regulation of mitochondrial membrane permeability
+BP	GO:0043031	   1	 3.280	D07	negative regulation of macrophage activation
+BP	GO:0019646	   1	 3.280	D07	aerobic electron transport chain
+BP	GO:0000387	   1	 3.280	D07	spliceosomal snRNP assembly
+BP	GO:0060031	   1	 3.280	D07	mediolateral intercalation
+BP	GO:0061365	   1	 2.979	D07	positive regulation of triglyceride lipase activity
+BP	GO:0032914	   1	 3.280	D07	positive regulation of transforming growth factor beta1 production
+BP	GO:2000343	   1	 3.280	D07	positive regulation of chemokine (C-X-C motif) ligand 2 production
+BP	GO:0061344	   1	 3.280	D07	regulation of cell adhesion involved in heart morphogenesis
+BP	GO:0010828	   1	 2.803	D07	positive regulation of glucose transmembrane transport
+BP	GO:0050434	   1	 2.803	D07	positive regulation of viral transcription
+BP	GO:0009253	   1	 2.377	D07	peptidoglycan catabolic process
+BP	GO:0031077	   1	 3.280	D07	post-embryonic camera-type eye development
+BP	GO:0030974	   1	 3.280	D07	thiamine pyrophosphate transmembrane transport
+BP	GO:0071157	   0	 2.979	D07	negative regulation of cell cycle arrest
+BP	GO:0106121	   0	 3.280	D07	positive regulation of cobalamin metabolic process
+BP	GO:0048022	   0	 2.979	D07	negative regulation of melanin biosynthetic process
+BP	GO:0048023	   0	 2.678	D07	positive regulation of melanin biosynthetic process
+BP	GO:1902553	   0	 3.280	D07	positive regulation of catalase activity
+BP	GO:0030423	   0	 3.280	D07	targeting of mRNA for destruction involved in RNA interference
+BP	GO:0031643	   0	 3.280	D07	positive regulation of myelination
+BP	GO:2001214	   0	 2.979	D07	positive regulation of vasculogenesis
+BP	GO:0075308	   0	 2.979	D07	negative regulation of conidium formation
+BP	GO:0010315	   0	 3.280	D07	auxin efflux
+BP	GO:0016062	   0	 3.280	D07	adaptation of rhodopsin mediated signaling
+BP	GO:0048386	   0	 3.280	D07	positive regulation of retinoic acid receptor signaling pathway
+BP	GO:1901527	   0	 3.280	D07	abscisic acid-activated signaling pathway involved in stomatal movement
+BP	GO:1900170	   0	 3.280	D07	negative regulation of glucocorticoid mediated signaling pathway
+BP	GO:2001046	   0	 3.280	D07	positive regulation of integrin-mediated signaling pathway
+BP	GO:0009788	   0	 3.280	D07	negative regulation of abscisic acid-activated signaling pathway
+BP	GO:0034203	   0	 3.280	D07	glycolipid translocation
+BP	GO:1902201	   0	 3.280	D07	negative regulation of bacterial-type flagellum-dependent cell motility
+BP	GO:0090363	   0	 3.280	D07	regulation of proteasome core complex assembly
+BP	GO:1900226	   0	 2.979	D07	negative regulation of NLRP3 inflammasome complex assembly
+BP	GO:1900188	   0	 2.803	D07	negative regulation of cell adhesion involved in single-species biofilm formation
+BP	GO:1902462	   0	 3.280	D07	positive regulation of mesenchymal stem cell proliferation
+BP	GO:0070351	   0	 3.280	D07	negative regulation of white fat cell proliferation
+BP	GO:0010839	   0	 3.280	D07	negative regulation of keratinocyte proliferation
+BP	GO:0090290	   0	 3.280	D07	positive regulation of osteoclast proliferation
+BP	GO:0033633	   0	 3.280	D07	negative regulation of cell-cell adhesion mediated by integrin
+BP	GO:0009234	   0	 3.280	D07	menaquinone biosynthetic process
+BP	GO:0071793	   0	 3.280	D07	bacillithiol biosynthetic process
+BP	GO:0009243	   0	 3.280	D07	O antigen biosynthetic process
+BP	GO:0017013	   0	 3.280	D07	protein flavinylation
+BP	GO:0019331	   0	 2.803	D07	anaerobic respiration, using ammonium as electron donor
+BP	GO:0051479	   0	 3.280	D07	mannosylglycerate biosynthetic process
+BP	GO:1901168	   0	 2.803	D07	3-chlorocatechol catabolic process
+BP	GO:0051979	   0	 3.280	D07	alginic acid acetylation
+BP	GO:0071919	   0	 3.280	D07	G-quadruplex DNA formation
+BP	GO:0019410	   0	 3.280	D07	aerobic respiration, using carbon monoxide as electron donor
+BP	GO:1900818	   0	 3.280	D07	ochratoxin A biosynthetic process
+BP	GO:0042262	   0	 2.803	D07	DNA protection
+BP	GO:0006287	   0	 3.280	D07	base-excision repair, gap-filling
+BP	GO:1900817	   0	 3.280	D07	ochratoxin A catabolic process
+BP	GO:0019071	   0	 3.280	D07	viral DNA cleavage involved in viral genome maturation
+BP	GO:0046548	   0	 3.280	D07	retinal rod cell development
+BP	GO:0046549	   0	 3.280	D07	retinal cone cell development
+BP	GO:0014839	   0	 3.280	D07	myoblast migration involved in skeletal muscle regeneration
+BP	GO:0071977	   0	 3.280	D07	bacterial-type flagellum-dependent swimming motility
+BP	GO:0071978	   0	 1.749	D07	bacterial-type flagellum-dependent swarming motility
+BP	GO:0043622	   0	 2.979	D07	cortical microtubule organization
+BP	GO:0042632	   0	 3.280	D07	cholesterol homeostasis
+BP	GO:0090630	   0	 2.803	D07	activation of GTPase activity
+BP	GO:0045347	   0	 3.280	D07	negative regulation of MHC class II biosynthetic process
+BP	GO:0045344	   0	 3.280	D07	negative regulation of MHC class I biosynthetic process
+BP	GO:0071651	   0	 3.280	D07	positive regulation of chemokine (C-C motif) ligand 5 production
+BP	GO:2000032	   0	 2.803	D07	regulation of secondary shoot formation
+BP	GO:0075319	   0	 3.280	D07	positive regulation of ascus development
+BP	GO:0051245	   0	 3.280	D07	negative regulation of cellular defense response
+BP	GO:0010540	   0	 3.280	D07	basipetal auxin transport
+BP	GO:0046725	   0	 3.280	D07	negative regulation by virus of viral protein levels in host cell
+BP	GO:1904972	   0	 3.280	D07	negative regulation of viral translation
+BP	GO:1904906	   0	 2.979	D07	positive regulation of endothelial cell-matrix adhesion via fibronectin
+BP	GO:0009254	   0	 2.979	D07	peptidoglycan turnover
+BP	GO:0050908	   0	 2.581	D07	detection of light stimulus involved in visual perception
+BP	GO:0016544	   0	 3.280	D07	male courtship behavior, tapping to detect pheromone
+BP	GO:0007616	   0	 3.280	D07	long-term memory
+BP	GO:0044874	   0	 2.502	D07	lipoprotein localization to outer membrane
+BP	GO:0098006	   0	 2.979	D07	viral DNA genome packaging, headful
+BP	GO:0039710	   0	 3.280	D07	cytoplasmic icosahedral capsid assembly
+BP	GO:0039690	   0	 2.979	D07	positive stranded viral RNA replication
+BP	GO:0039689	   0	 3.280	D07	negative stranded viral RNA replication
+BP	GO:0039666	   0	 3.280	D07	virion attachment to host cell pilus
+BP	GO:0039638	   0	 2.979	D07	lipopolysaccharide-mediated virion attachment to host cell
+BP	GO:0044477	   0	 3.280	D07	envenomation resulting in negative regulation of platelet aggregation in other organism
+BP	GO:0009306	 207	 2.326	D08	protein secretion
+BP	GO:0006886	 178	 2.502	D08	intracellular protein transport
+BP	GO:0001932	 174	 1.657	D08	regulation of protein phosphorylation
+BP	GO:0031400	 133	 1.979	D08	negative regulation of protein modification process
+BP	GO:0002218	 119	 2.979	D08	activation of innate immune response
+BP	GO:0006479	 110	 2.280	D08	protein methylation
+BP	GO:0042326	  75	 2.076	D08	negative regulation of phosphorylation
+BP	GO:0023014	  73	 2.581	D08	signal transduction by protein phosphorylation
+BP	GO:0031047	  65	 2.979	D08	gene silencing by RNA
+BP	GO:0006633	  57	 2.678	D08	fatty acid biosynthetic process
+BP	GO:0060070	  53	 2.979	D08	canonical Wnt signaling pathway
+BP	GO:0045666	  51	 2.025	D08	positive regulation of neuron differentiation
+BP	GO:0006302	  49	 2.050	D08	double-strand break repair
+BP	GO:0006446	  48	 2.678	D08	regulation of translational initiation
+BP	GO:0045862	  44	 2.435	D08	positive regulation of proteolysis
+BP	GO:0045861	  44	 2.581	D08	negative regulation of proteolysis
+BP	GO:0050714	  42	 2.502	D08	positive regulation of protein secretion
+BP	GO:0050709	  41	 2.435	D08	negative regulation of protein secretion
+BP	GO:0006511	  40	 2.377	D08	ubiquitin-dependent protein catabolic process
+BP	GO:0017148	  39	 2.280	D08	negative regulation of translation
+BP	GO:0032543	  34	 3.280	D08	mitochondrial translation
+BP	GO:0044414	  32	 2.076	D08	suppression of host defenses by symbiont
+BP	GO:0019049	  32	 2.076	D08	mitigation of host defenses by virus
+BP	GO:0045727	  31	 2.435	D08	positive regulation of translation
+BP	GO:0042129	  29	 2.803	D08	regulation of T cell proliferation
+BP	GO:0006476	  29	 2.581	D08	protein deacetylation
+BP	GO:0016572	  25	 2.979	D08	histone phosphorylation
+BP	GO:0006353	  23	 3.280	D08	DNA-templated transcription, termination
+BP	GO:0006493	  21	 2.979	D08	protein O-linked glycosylation
+BP	GO:0019290	  20	 2.678	D08	siderophore biosynthetic process
+BP	GO:0045910	  18	 3.280	D08	negative regulation of DNA recombination
+BP	GO:2000107	  17	 3.280	D08	negative regulation of leukocyte apoptotic process
+BP	GO:0006289	  16	 2.979	D08	nucleotide-excision repair
+BP	GO:0046777	  15	 2.326	D08	protein autophosphorylation
+BP	GO:0019076	  15	 2.502	D08	viral release from host cell
+BP	GO:0048813	  14	 2.678	D08	dendrite morphogenesis
+BP	GO:0052312	  13	 2.201	D08	modulation of transcription in other organism involved in symbiotic interaction
+BP	GO:0039657	  13	 2.280	D08	suppression by virus of host gene expression
+BP	GO:0006829	  13	 3.280	D08	zinc ion transport
+BP	GO:1904746	  12	 3.280	D08	negative regulation of apoptotic process involved in development
+BP	GO:0006825	  12	 2.979	D08	copper ion transport
+BP	GO:1902807	  11	 3.280	D08	negative regulation of cell cycle G1/S phase transition
+BP	GO:0006284	  11	 2.979	D08	base-excision repair
+BP	GO:0046929	  10	 2.979	D08	negative regulation of neurotransmitter secretion
+BP	GO:0030194	  10	 2.979	D08	positive regulation of blood coagulation
+BP	GO:0042269	  10	 2.803	D08	regulation of natural killer cell mediated cytotoxicity
+BP	GO:0002862	  10	 3.280	D08	negative regulation of inflammatory response to antigenic stimulus
+BP	GO:0010634	   9	 2.581	D08	positive regulation of epithelial cell migration
+BP	GO:0006487	   9	 3.280	D08	protein N-linked glycosylation
+BP	GO:0047497	   9	 3.280	D08	mitochondrion transport along microtubule
+BP	GO:0010460	   9	 3.280	D08	positive regulation of heart rate
+BP	GO:1904036	   8	 3.280	D08	negative regulation of epithelial cell apoptotic process
+BP	GO:0016242	   8	 3.280	D08	negative regulation of macroautophagy
+BP	GO:0090090	   8	 2.979	D08	negative regulation of canonical Wnt signaling pathway
+BP	GO:0035767	   8	 3.280	D08	endothelial cell chemotaxis
+BP	GO:0048643	   8	 2.979	D08	positive regulation of skeletal muscle tissue development
+BP	GO:0043001	   8	 3.280	D08	Golgi to plasma membrane protein transport
+BP	GO:0010907	   7	 3.280	D08	positive regulation of glucose metabolic process
+BP	GO:2000279	   7	 3.280	D08	negative regulation of DNA biosynthetic process
+BP	GO:0010633	   7	 2.678	D08	negative regulation of epithelial cell migration
+BP	GO:0050850	   7	 2.979	D08	positive regulation of calcium-mediated signaling
+BP	GO:0031297	   7	 3.280	D08	replication fork processing
+BP	GO:0016104	   7	 3.280	D08	triterpenoid biosynthetic process
+BP	GO:0045723	   6	 2.803	D08	positive regulation of fatty acid biosynthetic process
+BP	GO:0032815	   6	 3.280	D08	negative regulation of natural killer cell activation
+BP	GO:0003309	   6	 3.280	D08	type B pancreatic cell differentiation
+BP	GO:0016525	   6	 2.979	D08	negative regulation of angiogenesis
+BP	GO:0097355	   6	 3.280	D08	protein localization to heterochromatin
+BP	GO:1900368	   5	 3.280	D08	regulation of RNA interference
+BP	GO:0006111	   5	 3.280	D08	regulation of gluconeogenesis
+BP	GO:0045670	   5	 3.280	D08	regulation of osteoclast differentiation
+BP	GO:0090263	   5	 2.979	D08	positive regulation of canonical Wnt signaling pathway
+BP	GO:0046427	   5	 2.280	D08	positive regulation of receptor signaling pathway via JAK-STAT
+BP	GO:1901798	   5	 3.280	D08	positive regulation of signal transduction by p53 class mediator
+BP	GO:0045742	   5	 2.979	D08	positive regulation of epidermal growth factor receptor signaling pathway
+BP	GO:0032816	   5	 3.280	D08	positive regulation of natural killer cell activation
+BP	GO:0006269	   5	 3.280	D08	DNA replication, synthesis of RNA primer
+BP	GO:0006268	   5	 3.280	D08	DNA unwinding involved in DNA replication
+BP	GO:0001897	   5	 2.581	D08	cytolysis by symbiont of host cells
+BP	GO:0020012	   5	 3.280	D08	mitigation of host immune response
+BP	GO:0045717	   4	 3.280	D08	negative regulation of fatty acid biosynthetic process
+BP	GO:0018177	   4	 3.280	D08	protein uridylylation
+BP	GO:0018414	   4	 3.280	D08	nickel incorporation into metallo-sulfur cluster
+BP	GO:0001865	   4	 3.280	D08	NK T cell differentiation
+BP	GO:0007274	   4	 2.979	D08	neuromuscular synaptic transmission
+BP	GO:1903078	   4	 2.803	D08	positive regulation of protein localization to plasma membrane
+BP	GO:0051610	   4	 3.280	D08	serotonin uptake
+BP	GO:0031639	   4	 3.280	D08	plasminogen activation
+BP	GO:0050779	   3	 2.581	D08	RNA destabilization
+BP	GO:0006449	   3	 3.280	D08	regulation of translational termination
+BP	GO:2000052	   3	 3.280	D08	positive regulation of non-canonical Wnt signaling pathway
+BP	GO:0042771	   3	 3.280	D08	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+BP	GO:0060291	   3	 2.678	D08	long-term synaptic potentiation
+BP	GO:0060292	   3	 3.280	D08	long-term synaptic depression
+BP	GO:0019433	   3	 3.280	D08	triglyceride catabolic process
+BP	GO:1901067	   3	 3.280	D08	ferulate catabolic process
+BP	GO:0006750	   3	 3.280	D08	glutathione biosynthetic process
+BP	GO:0045122	   3	 3.280	D08	aflatoxin biosynthetic process
+BP	GO:0034435	   3	 3.280	D08	cholesterol esterification
+BP	GO:0036297	   3	 3.280	D08	interstrand cross-link repair
+BP	GO:0010780	   3	 3.280	D08	meiotic DNA double-strand break formation involved in reciprocal meiotic recombination
+BP	GO:0060997	   3	 2.979	D08	dendritic spine morphogenesis
+BP	GO:0051838	   3	 3.280	D08	cytolysis by host of symbiont cells
+BP	GO:0009816	   3	 3.280	D08	defense response to bacterium, incompatible interaction
+BP	GO:0042953	   3	 3.280	D08	lipoprotein transport
+BP	GO:0015693	   3	 3.280	D08	magnesium ion transport
+BP	GO:0033120	   2	 3.280	D08	positive regulation of RNA splicing
+BP	GO:2001224	   2	 3.280	D08	positive regulation of neuron migration
+BP	GO:0090394	   2	 2.979	D08	negative regulation of excitatory postsynaptic potential
+BP	GO:0014059	   2	 2.979	D08	regulation of dopamine secretion
+BP	GO:0043124	   2	 3.280	D08	negative regulation of I-kappaB kinase/NF-kappaB signaling
+BP	GO:0030512	   2	 3.280	D08	negative regulation of transforming growth factor beta receptor signaling pathway
+BP	GO:0014911	   2	 3.280	D08	positive regulation of smooth muscle cell migration
+BP	GO:0051968	   2	 2.581	D08	positive regulation of synaptic transmission, glutamatergic
+BP	GO:0043639	   2	 3.280	D08	benzoate catabolic process
+BP	GO:0030494	   2	 2.581	D08	bacteriochlorophyll biosynthetic process
+BP	GO:0019252	   2	 3.280	D08	starch biosynthetic process
+BP	GO:0070914	   2	 2.979	D08	UV-damage excision repair
+BP	GO:0038016	   2	 3.280	D08	insulin receptor internalization
+BP	GO:0045227	   2	 3.280	D08	capsule polysaccharide biosynthetic process
+BP	GO:0070472	   2	 2.979	D08	regulation of uterine smooth muscle contraction
+BP	GO:0043415	   2	 3.280	D08	positive regulation of skeletal muscle tissue regeneration
+BP	GO:2000386	   2	 3.280	D08	positive regulation of ovarian follicle development
+BP	GO:0002625	   2	 3.280	D08	regulation of T cell antigen processing and presentation
+BP	GO:0042306	   2	 2.803	D08	regulation of protein import into nucleus
+BP	GO:0045070	   2	 2.979	D08	positive regulation of viral genome replication
+BP	GO:0008355	   2	 2.803	D08	olfactory learning
+BP	GO:0072321	   2	 2.803	D08	chaperone-mediated protein transport
+BP	GO:0042000	   2	 2.979	D08	translocation of peptides or proteins into host
+BP	GO:0060546	   1	 2.979	D08	negative regulation of necroptotic process
+BP	GO:0009695	   1	 3.280	D08	jasmonic acid biosynthetic process
+BP	GO:0044357	   1	 3.280	D08	regulation of rRNA stability
+BP	GO:2000463	   1	 2.502	D08	positive regulation of excitatory postsynaptic potential
+BP	GO:0060302	   1	 3.280	D08	negative regulation of cytokine activity
+BP	GO:0048549	   1	 3.280	D08	positive regulation of pinocytosis
+BP	GO:0060296	   1	 3.280	D08	regulation of cilium beat frequency involved in ciliary motility
+BP	GO:0043137	   1	 3.280	D08	DNA replication, removal of RNA primer
+BP	GO:0045337	   1	 2.076	D08	farnesyl diphosphate biosynthetic process
+BP	GO:0046856	   1	 3.280	D08	phosphatidylinositol dephosphorylation
+BP	GO:0090592	   1	 2.979	D08	DNA synthesis involved in DNA replication
+BP	GO:0007141	   1	 3.280	D08	male meiosis I
+BP	GO:0046597	   1	 2.678	D08	negative regulation of viral entry into host cell
+BP	GO:0098670	   1	 3.280	D08	entry receptor-mediated virion attachment to host cell
+BP	GO:2000210	   0	 3.280	D08	positive regulation of anoikis
+BP	GO:0070895	   0	 3.280	D08	negative regulation of transposon integration
+BP	GO:1902326	   0	 3.280	D08	positive regulation of chlorophyll biosynthetic process
+BP	GO:0009386	   0	 2.979	D08	translational attenuation
+BP	GO:0032929	   0	 3.280	D08	negative regulation of superoxide anion generation
+BP	GO:0062003	   0	 3.280	D08	negative regulation of all-trans-retinyl-ester hydrolase, 11-cis retinol forming activity
+BP	GO:0001694	   0	 3.280	D08	histamine biosynthetic process
+BP	GO:1900053	   0	 3.280	D08	negative regulation of retinoic acid biosynthetic process
+BP	GO:0045429	   0	 3.280	D08	positive regulation of nitric oxide biosynthetic process
+BP	GO:1901164	   0	 3.280	D08	negative regulation of trophoblast cell migration
+BP	GO:1901165	   0	 3.280	D08	positive regulation of trophoblast cell migration
+BP	GO:0045887	   0	 2.979	D08	positive regulation of synaptic growth at neuromuscular junction
+BP	GO:0045886	   0	 2.979	D08	negative regulation of synaptic growth at neuromuscular junction
+BP	GO:1902037	   0	 3.280	D08	negative regulation of hematopoietic stem cell differentiation
+BP	GO:0090141	   0	 2.803	D08	positive regulation of mitochondrial fission
+BP	GO:1900026	   0	 3.280	D08	positive regulation of substrate adhesion-dependent cell spreading
+BP	GO:0034051	   0	 3.280	D08	negative regulation of plant-type hypersensitive response
+BP	GO:0051897	   0	 3.280	D08	positive regulation of protein kinase B signaling
+BP	GO:0010804	   0	 3.280	D08	negative regulation of tumor necrosis factor-mediated signaling pathway
+BP	GO:0014068	   0	 3.280	D08	positive regulation of phosphatidylinositol 3-kinase signaling
+BP	GO:0033147	   0	 3.280	D08	negative regulation of intracellular estrogen receptor signaling pathway
+BP	GO:0070495	   0	 3.280	D08	negative regulation of thrombin-activated receptor signaling pathway
+BP	GO:0051898	   0	 2.979	D08	negative regulation of protein kinase B signaling
+BP	GO:1905280	   0	 3.280	D08	negative regulation of retrograde transport, endosome to Golgi
+BP	GO:2000808	   0	 3.280	D08	negative regulation of synaptic vesicle clustering
+BP	GO:2000809	   0	 3.280	D08	positive regulation of synaptic vesicle clustering
+BP	GO:0014063	   0	 3.280	D08	negative regulation of serotonin secretion
+BP	GO:0035543	   0	 3.280	D08	positive regulation of SNARE complex assembly
+BP	GO:1903652	   0	 3.280	D08	modulation by virus of host cytoplasmic transport
+BP	GO:1901318	   0	 3.280	D08	negative regulation of flagellated sperm motility
+BP	GO:1904237	   0	 3.280	D08	positive regulation of substrate-dependent cell migration, cell attachment to substrate
+BP	GO:1902209	   0	 3.280	D08	negative regulation of bacterial-type flagellum assembly
+BP	GO:1902210	   0	 2.979	D08	positive regulation of bacterial-type flagellum assembly
+BP	GO:0051894	   0	 3.280	D08	positive regulation of focal adhesion assembly
+BP	GO:0044072	   0	 3.280	D08	negative regulation by symbiont of host cell cycle
+BP	GO:0036153	   0	 3.280	D08	triglyceride acyl-chain remodeling
+BP	GO:0033050	   0	 2.581	D08	clavulanic acid biosynthetic process
+BP	GO:0070212	   0	 3.280	D08	protein poly-ADP-ribosylation
+BP	GO:0033320	   0	 3.280	D08	UDP-D-xylose biosynthetic process
+BP	GO:0035970	   0	 3.280	D08	peptidyl-threonine dephosphorylation
+BP	GO:0033384	   0	 3.280	D08	geranyl diphosphate biosynthetic process
+BP	GO:0009245	   0	 3.280	D08	lipid A biosynthetic process
+BP	GO:0070213	   0	 3.280	D08	protein auto-ADP-ribosylation
+BP	GO:0046854	   0	 3.280	D08	phosphatidylinositol phosphorylation
+BP	GO:0033386	   0	 2.166	D08	geranylgeranyl diphosphate biosynthetic process
+BP	GO:0000292	   0	 2.979	D08	RNA fragment catabolic process
+BP	GO:0010792	   0	 2.803	D08	DNA double-strand break processing involved in repair via single-strand annealing
+BP	GO:0043571	   0	 2.803	D08	maintenance of CRISPR repeat elements
+BP	GO:0097114	   0	 2.803	D08	NMDA glutamate receptor clustering
+BP	GO:0033617	   0	 3.280	D08	mitochondrial respiratory chain complex IV assembly
+BP	GO:0007270	   0	 3.280	D08	neuron-neuron synaptic transmission
+BP	GO:0051006	   0	 3.280	D08	positive regulation of lipoprotein lipase activity
+BP	GO:1901332	   0	 2.979	D08	negative regulation of lateral root development
+BP	GO:0048579	   0	 3.280	D08	negative regulation of long-day photoperiodism, flowering
+BP	GO:0048576	   0	 3.280	D08	positive regulation of short-day photoperiodism, flowering
+BP	GO:1900017	   0	 3.280	D08	positive regulation of cytokine production involved in inflammatory response
+BP	GO:0033638	   0	 3.280	D08	modulation by symbiont of host response to heat
+BP	GO:0002230	   0	 3.280	D08	positive regulation of defense response to virus by host
+BP	GO:1905885	   0	 3.280	D08	positive regulation of triglyceride transport
+BP	GO:0046325	   0	 2.979	D08	negative regulation of glucose import
+BP	GO:0046326	   0	 2.979	D08	positive regulation of glucose import
+BP	GO:0043923	   0	 3.280	D08	positive regulation by host of viral transcription
+BP	GO:1902735	   0	 3.280	D08	negative regulation of receptor-mediated virion attachment to host cell
+BP	GO:0051672	   0	 2.502	D08	catabolism by organism of cell wall peptidoglycan in other organism
+BP	GO:0046959	   0	 3.280	D08	habituation
+BP	GO:0043152	   0	 2.979	D08	induction of bacterial agglutination
+BP	GO:0036372	   0	 3.280	D08	opsin transport
+BP	GO:0046740	   0	 2.678	D08	transport of virus in host, cell to cell
+BP	GO:0052039	   0	 3.280	D08	modification by symbiont of host cytoskeleton
+BP	GO:0006351	 493	 2.326	D09	transcription, DNA-templated
+BP	GO:0006355	 410	 1.116	D09	regulation of transcription, DNA-templated
+BP	GO:0006164	  83	 2.502	D09	purine nucleotide biosynthetic process
+BP	GO:0015804	  79	 2.979	D09	neutral amino acid transport
+BP	GO:0001934	  70	 1.833	D09	positive regulation of protein phosphorylation
+BP	GO:0070588	  69	 3.280	D09	calcium ion transmembrane transport
+BP	GO:0016567	  67	 2.326	D09	protein ubiquitination
+BP	GO:0016571	  65	 2.280	D09	histone methylation
+BP	GO:0001933	  57	 2.201	D09	negative regulation of protein phosphorylation
+BP	GO:0018394	  57	 2.979	D09	peptidyl-lysine acetylation
+BP	GO:0033674	  54	 2.050	D09	positive regulation of kinase activity
+BP	GO:0033673	  35	 2.678	D09	negative regulation of kinase activity
+BP	GO:0018108	  30	 2.581	D09	peptidyl-tyrosine phosphorylation
+BP	GO:0008064	  28	 2.678	D09	regulation of actin polymerization or depolymerization
+BP	GO:0021955	  28	 2.979	D09	central nervous system neuron axonogenesis
+BP	GO:0030683	  28	 2.239	D09	mitigation of host immune response by virus
+BP	GO:0052562	  28	 2.076	D09	suppression by symbiont of host immune response
+BP	GO:0010976	  27	 2.166	D09	positive regulation of neuron projection development
+BP	GO:0010977	  27	 2.803	D09	negative regulation of neuron projection development
+BP	GO:0055072	  26	 2.678	D09	iron ion homeostasis
+BP	GO:0018105	  21	 2.581	D09	peptidyl-serine phosphorylation
+BP	GO:0045582	  20	 2.678	D09	positive regulation of T cell differentiation
+BP	GO:0000724	  20	 3.280	D09	double-strand break repair via homologous recombination
+BP	GO:2001259	  20	 2.581	D09	positive regulation of cation channel activity
+BP	GO:0033262	  18	 2.979	D09	regulation of nuclear cell cycle DNA replication
+BP	GO:0045493	  18	 3.280	D09	xylan catabolic process
+BP	GO:0016575	  17	 3.280	D09	histone deacetylation
+BP	GO:0010972	  16	 3.280	D09	negative regulation of G2/M transition of mitotic cell cycle
+BP	GO:0016117	  15	 2.581	D09	carotenoid biosynthetic process
+BP	GO:0018107	  15	 2.803	D09	peptidyl-threonine phosphorylation
+BP	GO:0043488	  13	 2.377	D09	regulation of mRNA stability
+BP	GO:0071072	  13	 3.280	D09	negative regulation of phospholipid biosynthetic process
+BP	GO:0071073	  13	 3.280	D09	positive regulation of phospholipid biosynthetic process
+BP	GO:2001243	  13	 2.979	D09	negative regulation of intrinsic apoptotic signaling pathway
+BP	GO:0017158	  13	 2.979	D09	regulation of calcium ion-dependent exocytosis
+BP	GO:0045947	  12	 3.280	D09	negative regulation of translational initiation
+BP	GO:0045948	  11	 3.280	D09	positive regulation of translational initiation
+BP	GO:1901984	  10	 2.678	D09	negative regulation of protein acetylation
+BP	GO:2000402	  10	 2.979	D09	negative regulation of lymphocyte migration
+BP	GO:1904659	  10	 2.979	D09	glucose transmembrane transport
+BP	GO:0052150	   9	 2.326	D09	modulation by symbiont of host apoptotic process
+BP	GO:0042130	   9	 3.280	D09	negative regulation of T cell proliferation
+BP	GO:0002692	   8	 2.979	D09	negative regulation of cellular extravasation
+BP	GO:0006075	   8	 3.280	D09	(1->3)-beta-D-glucan biosynthetic process
+BP	GO:0002361	   8	 3.280	D09	CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+BP	GO:0032527	   8	 2.979	D09	protein exit from endoplasmic reticulum
+BP	GO:0110029	   7	 3.280	D09	negative regulation of meiosis I
+BP	GO:0016925	   7	 2.979	D09	protein sumoylation
+BP	GO:0010595	   6	 2.979	D09	positive regulation of endothelial cell migration
+BP	GO:0090042	   6	 3.280	D09	tubulin deacetylation
+BP	GO:0045002	   6	 2.979	D09	double-strand break repair via single-strand annealing
+BP	GO:0006303	   6	 2.435	D09	double-strand break repair via nonhomologous end joining
+BP	GO:0006606	   6	 2.979	D09	protein import into nucleus
+BP	GO:0035308	   5	 2.979	D09	negative regulation of protein dephosphorylation
+BP	GO:0045901	   5	 3.280	D09	positive regulation of translational elongation
+BP	GO:0090043	   5	 3.280	D09	regulation of tubulin deacetylation
+BP	GO:0046579	   5	 3.280	D09	positive regulation of Ras protein signal transduction
+BP	GO:0060965	   4	 2.979	D09	negative regulation of gene silencing by miRNA
+BP	GO:0009686	   4	 3.280	D09	gibberellin biosynthetic process
+BP	GO:0045579	   4	 3.280	D09	positive regulation of B cell differentiation
+BP	GO:0044577	   4	 3.280	D09	xylose catabolic process to ethanol
+BP	GO:0055070	   4	 3.280	D09	copper ion homeostasis
+BP	GO:0090324	   3	 3.280	D09	negative regulation of oxidative phosphorylation
+BP	GO:0016926	   3	 3.280	D09	protein desumoylation
+BP	GO:0019511	   3	 3.280	D09	peptidyl-proline hydroxylation
+BP	GO:0042758	   3	 3.280	D09	long-chain fatty acid catabolic process
+BP	GO:0036376	   3	 3.280	D09	sodium ion export across plasma membrane
+BP	GO:0097113	   3	 2.979	D09	AMPA glutamate receptor clustering
+BP	GO:0045954	   3	 3.280	D09	positive regulation of natural killer cell mediated cytotoxicity
+BP	GO:0045953	   3	 3.280	D09	negative regulation of natural killer cell mediated cytotoxicity
+BP	GO:0090281	   3	 3.280	D09	negative regulation of calcium ion import
+BP	GO:2001032	   2	 2.581	D09	regulation of double-strand break repair via nonhomologous end joining
+BP	GO:0060297	   2	 3.280	D09	regulation of sarcomere organization
+BP	GO:2000310	   2	 2.678	D09	regulation of NMDA receptor activity
+BP	GO:2000311	   2	 2.803	D09	regulation of AMPA receptor activity
+BP	GO:0060753	   2	 2.979	D09	regulation of mast cell chemotaxis
+BP	GO:0014049	   2	 3.280	D09	positive regulation of glutamate secretion
+BP	GO:0043520	   2	 3.280	D09	regulation of myosin II filament assembly
+BP	GO:0045724	   2	 3.280	D09	positive regulation of cilium assembly
+BP	GO:0006572	   2	 3.280	D09	tyrosine catabolic process
+BP	GO:0002726	   2	 3.280	D09	positive regulation of T cell cytokine production
+BP	GO:0015867	   2	 3.280	D09	ATP transport
+BP	GO:0015677	   2	 3.280	D09	copper ion import
+BP	GO:0044659	   2	 1.958	D09	cytolysis by virus of host cell
+BP	GO:1900087	   1	 3.280	D09	positive regulation of G1/S transition of mitotic cell cycle
+BP	GO:0002092	   1	 2.581	D09	positive regulation of receptor internalization
+BP	GO:0045651	   1	 2.979	D09	positive regulation of macrophage differentiation
+BP	GO:0032825	   1	 3.280	D09	positive regulation of natural killer cell differentiation
+BP	GO:0042998	   1	 3.280	D09	positive regulation of Golgi to plasma membrane protein transport
+BP	GO:0035899	   1	 2.803	D09	negative regulation of blood coagulation in other organism
+BP	GO:0015866	   1	 3.280	D09	ADP transport
+BP	GO:0044662	   1	 2.581	D09	disruption by virus of host cell membrane
+BP	GO:0098864	   1	 2.979	D09	modification by symbiont of host tight cell-cell junction
+BP	GO:1904877	   0	 2.979	D09	positive regulation of DNA ligase activity
+BP	GO:2001278	   0	 3.280	D09	positive regulation of leucine biosynthetic process
+BP	GO:1990264	   0	 2.678	D09	peptidyl-tyrosine dephosphorylation involved in inactivation of protein kinase activity
+BP	GO:0010366	   0	 3.280	D09	negative regulation of ethylene biosynthetic process
+BP	GO:2000627	   0	 3.280	D09	positive regulation of miRNA catabolic process
+BP	GO:0031438	   0	 3.280	D09	negative regulation of mRNA cleavage
+BP	GO:1905856	   0	 3.280	D09	negative regulation of pentose-phosphate shunt
+BP	GO:0060145	   0	 2.979	D09	viral gene silencing in virus induced gene silencing
+BP	GO:1901671	   0	 3.280	D09	positive regulation of superoxide dismutase activity
+BP	GO:0062085	   0	 3.280	D09	positive regulation of capsule polysaccharide biosynthetic process
+BP	GO:0039521	   0	 3.280	D09	suppression by virus of host autophagy
+BP	GO:0044074	   0	 2.979	D09	negative regulation by symbiont of host translation
+BP	GO:0090082	   0	 2.979	D09	positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway
+BP	GO:1903043	   0	 3.280	D09	positive regulation of chondrocyte hypertrophy
+BP	GO:0045657	   0	 3.280	D09	positive regulation of monocyte differentiation
+BP	GO:1900246	   0	 3.280	D09	positive regulation of RIG-I signaling pathway
+BP	GO:0070164	   0	 2.803	D09	negative regulation of adiponectin secretion
+BP	GO:0033603	   0	 3.280	D09	positive regulation of dopamine secretion
+BP	GO:0090201	   0	 3.280	D09	negative regulation of release of cytochrome c from mitochondria
+BP	GO:0090200	   0	 2.979	D09	positive regulation of release of cytochrome c from mitochondria
+BP	GO:0034054	   0	 3.280	D09	suppression by symbiont of host defense-related programmed cell death
+BP	GO:0034140	   0	 3.280	D09	negative regulation of toll-like receptor 3 signaling pathway
+BP	GO:0010105	   0	 3.280	D09	negative regulation of ethylene-activated signaling pathway
+BP	GO:0044078	   0	 3.280	D09	positive regulation by symbiont of host receptor-mediated endocytosis
+BP	GO:2000866	   0	 2.803	D09	positive regulation of estradiol secretion
+BP	GO:0010592	   0	 2.979	D09	positive regulation of lamellipodium assembly
+BP	GO:0051491	   0	 3.280	D09	positive regulation of filopodium assembly
+BP	GO:2000251	   0	 3.280	D09	positive regulation of actin cytoskeleton reorganization
+BP	GO:0044865	   0	 3.280	D09	negative regulation by virus of host cell division
+BP	GO:0039635	   0	 2.979	D09	suppression by virus of host peptidoglycan biosynthetic process
+BP	GO:0044864	   0	 3.280	D09	positive regulation by virus of host cell division
+BP	GO:0006210	   0	 3.280	D09	thymine catabolic process
+BP	GO:0006212	   0	 2.979	D09	uracil catabolic process
+BP	GO:1903663	   0	 3.280	D09	L-altrarate catabolic process
+BP	GO:0034421	   0	 3.280	D09	post-translational protein acetylation
+BP	GO:0016554	   0	 3.280	D09	cytidine to uridine editing
+BP	GO:0019617	   0	 3.280	D09	protocatechuate catabolic process, meta-cleavage
+BP	GO:0035269	   0	 3.280	D09	protein O-linked mannosylation
+BP	GO:0043042	   0	 3.280	D09	amino acid adenylylation by nonribosomal peptide synthase
+BP	GO:0061715	   0	 3.280	D09	miRNA 2'-O-methylation
+BP	GO:0018120	   0	 2.979	D09	peptidyl-arginine ADP-ribosylation
+BP	GO:0071076	   0	 3.280	D09	RNA 3' uridylation
+BP	GO:0046392	   0	 3.280	D09	galactarate catabolic process
+BP	GO:0042864	   0	 3.280	D09	pyochelin biosynthetic process
+BP	GO:0006207	   0	 3.280	D09	'de novo' pyrimidine nucleobase biosynthetic process
+BP	GO:0000719	   0	 2.803	D09	photoreactive repair
+BP	GO:0043421	   0	 3.280	D09	anthranilate catabolic process
+BP	GO:0000720	   0	 3.280	D09	pyrimidine dimer repair by nucleotide-excision repair
+BP	GO:0030254	   0	 2.979	D09	protein secretion by the type III secretion system
+BP	GO:0030255	   0	 3.280	D09	protein secretion by the type IV secretion system
+BP	GO:0019836	   0	 2.803	D09	hemolysis by symbiont of host erythrocytes
+BP	GO:0048632	   0	 2.979	D09	negative regulation of skeletal muscle tissue growth
+BP	GO:0051918	   0	 3.280	D09	negative regulation of fibrinolysis
+BP	GO:0045797	   0	 3.280	D09	positive regulation of intestinal cholesterol absorption
+BP	GO:0052036	   0	 2.979	D09	suppression by symbiont of host inflammatory response
+BP	GO:0033664	   0	 3.280	D09	positive regulation by symbiont of host defense-related protein level
+BP	GO:0014053	   0	 2.979	D09	negative regulation of gamma-aminobutyric acid secretion
+BP	GO:0042308	   0	 3.280	D09	negative regulation of protein import into nucleus
+BP	GO:0019060	   0	 3.280	D09	intracellular transport of viral protein in host cell
+BP	GO:1901218	   0	 2.803	D09	negative regulation of holin activity
+BP	GO:0044828	   0	 3.280	D09	negative regulation by host of viral genome replication
+BP	GO:0098672	   0	 2.678	D09	evasion by virus of CRISPR-cas system
+BP	GO:0072323	   0	 2.979	D09	chaperone-mediated protein transport across periplasmic space
+BP	GO:0031460	   0	 3.280	D09	glycine betaine transport
+BP	GO:0044696	   0	 2.979	D09	killing by virus of host cell by post-segregational killing
+BP	GO:0006366	 289	 3.280	D10	transcription by RNA polymerase II
+BP	GO:0045893	 136	 1.435	D10	positive regulation of transcription, DNA-templated
+BP	GO:0045892	 126	 1.556	D10	negative regulation of transcription, DNA-templated
+BP	GO:0018393	  48	 3.280	D10	internal peptidyl-lysine acetylation
+BP	GO:0045860	  43	 2.104	D10	positive regulation of protein kinase activity
+BP	GO:0043620	  40	 3.280	D10	regulation of DNA-templated transcription in response to stress
+BP	GO:0046031	  28	 3.280	D10	ADP metabolic process
+BP	GO:0000209	  25	 2.803	D10	protein polyubiquitination
+BP	GO:0006879	  24	 2.803	D10	cellular iron ion homeostasis
+BP	GO:0052170	  20	 2.502	D10	suppression by symbiont of host innate immune response
+BP	GO:0016246	  18	 3.280	D10	RNA interference
+BP	GO:0032434	  15	 2.803	D10	regulation of proteasomal ubiquitin-dependent protein catabolic process
+BP	GO:0010950	  13	 2.803	D10	positive regulation of endopeptidase activity
+BP	GO:0031398	  12	 2.979	D10	positive regulation of protein ubiquitination
+BP	GO:0031397	  12	 3.280	D10	negative regulation of protein ubiquitination
+BP	GO:0031062	  12	 2.803	D10	positive regulation of histone methylation
+BP	GO:0009086	  11	 2.803	D10	methionine biosynthetic process
+BP	GO:0046638	  10	 3.280	D10	positive regulation of alpha-beta T cell differentiation
+BP	GO:0019056	   9	 2.280	D10	modulation by virus of host transcription
+BP	GO:0000460	   9	 2.979	D10	maturation of 5.8S rRNA
+BP	GO:0043304	   7	 3.280	D10	regulation of mast cell degranulation
+BP	GO:0016123	   7	 3.280	D10	xanthophyll biosynthetic process
+BP	GO:2000060	   6	 2.979	D10	positive regulation of ubiquitin-dependent protein catabolic process
+BP	GO:0051438	   6	 3.280	D10	regulation of ubiquitin-protein transferase activity
+BP	GO:0039613	   6	 3.280	D10	suppression by virus of host protein phosphorylation
+BP	GO:1901673	   6	 3.280	D10	regulation of mitotic spindle assembly
+BP	GO:0006513	   6	 2.979	D10	protein monoubiquitination
+BP	GO:0032469	   5	 3.280	D10	endoplasmic reticulum calcium ion homeostasis
+BP	GO:0030422	   5	 2.581	D10	production of siRNA involved in RNA interference
+BP	GO:0048255	   5	 2.803	D10	mRNA stabilization
+BP	GO:0098779	   5	 3.280	D10	positive regulation of mitophagy in response to mitochondrial depolarization
+BP	GO:0090293	   5	 3.280	D10	nitrogen catabolite regulation of transcription
+BP	GO:0046033	   5	 2.979	D10	AMP metabolic process
+BP	GO:0015886	   5	 2.979	D10	heme transport
+BP	GO:0032297	   4	 2.803	D10	negative regulation of DNA-dependent DNA replication initiation
+BP	GO:0052151	   4	 2.979	D10	positive regulation by symbiont of host apoptotic process
+BP	GO:0006542	   4	 2.979	D10	glutamine biosynthetic process
+BP	GO:0033151	   4	 3.280	D10	V(D)J recombination
+BP	GO:0007260	   3	 2.979	D10	tyrosine phosphorylation of STAT protein
+BP	GO:0039604	   3	 2.979	D10	suppression by virus of host translation
+BP	GO:0032275	   3	 3.280	D10	luteinizing hormone secretion
+BP	GO:0038083	   3	 2.979	D10	peptidyl-tyrosine autophosphorylation
+BP	GO:0051865	   3	 2.678	D10	protein autoubiquitination
+BP	GO:0002374	   3	 2.979	D10	cytokine secretion involved in immune response
+BP	GO:0051560	   2	 3.280	D10	mitochondrial calcium ion homeostasis
+BP	GO:0045821	   2	 3.280	D10	positive regulation of glycolytic process
+BP	GO:0045820	   2	 3.280	D10	negative regulation of glycolytic process
+BP	GO:0090049	   2	 3.280	D10	regulation of cell migration involved in sprouting angiogenesis
+BP	GO:0033084	   2	 3.280	D10	regulation of immature T cell proliferation in thymus
+BP	GO:0033089	   2	 3.280	D10	positive regulation of T cell differentiation in thymus
+BP	GO:1901299	   2	 3.280	D10	negative regulation of hydrogen peroxide-mediated programmed cell death
+BP	GO:0045955	   2	 3.280	D10	negative regulation of calcium ion-dependent exocytosis
+BP	GO:0032233	   2	 2.803	D10	positive regulation of actin filament bundle assembly
+BP	GO:0031116	   2	 2.803	D10	positive regulation of microtubule polymerization
+BP	GO:0007026	   2	 2.979	D10	negative regulation of microtubule depolymerization
+BP	GO:0033668	   2	 2.502	D10	negative regulation by symbiont of host apoptotic process
+BP	GO:0015972	   2	 3.280	D10	guanosine pentaphosphate metabolic process
+BP	GO:0035520	   2	 3.280	D10	monoubiquitinated protein deubiquitination
+BP	GO:0009094	   2	 3.280	D10	L-phenylalanine biosynthetic process
+BP	GO:0052083	   2	 2.979	D10	suppression by symbiont of host cell-mediated immune response
+BP	GO:0015827	   2	 3.280	D10	tryptophan transport
+BP	GO:1903301	   1	 3.280	D10	positive regulation of hexokinase activity
+BP	GO:1902573	   1	 3.280	D10	positive regulation of serine-type peptidase activity
+BP	GO:0033235	   1	 3.280	D10	positive regulation of protein sumoylation
+BP	GO:0070919	   1	 3.280	D10	production of siRNA involved in chromatin silencing by small RNA
+BP	GO:0039648	   1	 2.979	D10	modulation by virus of host protein ubiquitination
+BP	GO:0042479	   1	 3.280	D10	positive regulation of eye photoreceptor cell development
+BP	GO:0090331	   1	 2.803	D10	negative regulation of platelet aggregation
+BP	GO:0043537	   1	 2.803	D10	negative regulation of blood vessel endothelial cell migration
+BP	GO:0010819	   1	 3.280	D10	regulation of T cell chemotaxis
+BP	GO:1902425	   1	 2.979	D10	positive regulation of attachment of mitotic spindle microtubules to kinetochore
+BP	GO:0032024	   1	 2.979	D10	positive regulation of insulin secretion
+BP	GO:0046676	   1	 3.280	D10	negative regulation of insulin secretion
+BP	GO:0009299	   1	 3.280	D10	mRNA transcription
+BP	GO:0046039	   1	 2.979	D10	GTP metabolic process
+BP	GO:0090298	   0	 3.280	D10	negative regulation of mitochondrial DNA replication
+BP	GO:0032877	   0	 3.280	D10	positive regulation of DNA endoreduplication
+BP	GO:0000290	   0	 3.280	D10	deadenylation-dependent decapping of nuclear-transcribed mRNA
+BP	GO:1902309	   0	 3.280	D10	negative regulation of peptidyl-serine dephosphorylation
+BP	GO:1905168	   0	 3.280	D10	positive regulation of double-strand break repair via homologous recombination
+BP	GO:2001034	   0	 2.803	D10	positive regulation of double-strand break repair via nonhomologous end joining
+BP	GO:1904960	   0	 3.280	D10	positive regulation of cytochrome-c oxidase activity
+BP	GO:1990216	   0	 3.280	D10	positive regulation by symbiont of host transcription
+BP	GO:2001250	   0	 3.280	D10	positive regulation of ammonia assimilation cycle
+BP	GO:0045645	   0	 3.280	D10	positive regulation of eosinophil differentiation
+BP	GO:0045659	   0	 3.280	D10	negative regulation of neutrophil differentiation
+BP	GO:0035548	   0	 3.280	D10	negative regulation of interferon-beta secretion
+BP	GO:2000778	   0	 3.280	D10	positive regulation of interleukin-6 secretion
+BP	GO:1900168	   0	 3.280	D10	positive regulation of glial cell-derived neurotrophic factor secretion
+BP	GO:2000667	   0	 3.280	D10	positive regulation of interleukin-13 secretion
+BP	GO:2000969	   0	 2.803	D10	positive regulation of AMPA receptor activity
+BP	GO:0060754	   0	 3.280	D10	positive regulation of mast cell chemotaxis
+BP	GO:0090026	   0	 3.280	D10	positive regulation of monocyte chemotaxis
+BP	GO:0046774	   0	 2.803	D10	suppression by virus of host intracellular interferon activity
+BP	GO:0039504	   0	 2.979	D10	suppression by virus of host adaptive immune response
+BP	GO:0034055	   0	 2.979	D10	positive regulation by symbiont of host defense-related programmed cell death
+BP	GO:0070886	   0	 3.280	D10	positive regulation of calcineurin-NFAT signaling cascade
+BP	GO:0060124	   0	 3.280	D10	positive regulation of growth hormone secretion
+BP	GO:1990443	   0	 3.280	D10	peptidyl-threonine autophosphorylation
+BP	GO:0006218	   0	 3.280	D10	uridine catabolic process
+BP	GO:0046360	   0	 3.280	D10	2-oxobutyrate biosynthetic process
+BP	GO:1902985	   0	 3.280	D10	mitotic pre-replicative complex assembly
+BP	GO:1901259	   0	 3.280	D10	chloroplast rRNA processing
+BP	GO:0030150	   0	 3.280	D10	protein import into mitochondrial matrix
+BP	GO:0046761	   0	 2.803	D10	viral budding from plasma membrane
+BP	GO:0090680	   0	 2.803	D10	disruption by virus of host outer membrane
+BP	GO:0098865	   0	 3.280	D10	modification by symbiont of host bicellular tight junctions
+BP	GO:0039640	   0	 2.979	D10	cytolysis by virus via suppression of host peptidoglycan biosynthetic process
+BP	GO:0044660	   0	 3.280	D10	cytolysis by virus via pore formation in host cell membrane
+BP	GO:0045944	  95	 2.002	D11	positive regulation of transcription by RNA polymerase II
+BP	GO:0000122	  49	 2.581	D11	negative regulation of transcription by RNA polymerase II
+BP	GO:0007204	  42	 2.979	D11	positive regulation of cytosolic calcium ion concentration
+BP	GO:0032147	  27	 2.581	D11	activation of protein kinase activity
+BP	GO:0039503	  17	 2.678	D11	suppression by virus of host innate immune response
+BP	GO:0071901	  13	 2.803	D11	negative regulation of protein serine/threonine kinase activity
+BP	GO:0006754	   9	 3.280	D11	ATP biosynthetic process
+BP	GO:0051568	   9	 2.326	D11	histone H3-K4 methylation
+BP	GO:0048680	   8	 3.280	D11	positive regulation of axon regeneration
+BP	GO:0009435	   8	 2.979	D11	NAD biosynthetic process
+BP	GO:0030837	   7	 3.280	D11	negative regulation of actin filament polymerization
+BP	GO:0098713	   7	 3.280	D11	leucine import across plasma membrane
+BP	GO:0045013	   6	 3.280	D11	carbon catabolite repression of transcription
+BP	GO:0035066	   6	 2.678	D11	positive regulation of histone acetylation
+BP	GO:0039653	   6	 2.326	D11	suppression by virus of host transcription
+BP	GO:0030835	   6	 3.280	D11	negative regulation of actin filament depolymerization
+BP	GO:0031937	   5	 2.581	D11	positive regulation of chromatin silencing
+BP	GO:0030836	   5	 3.280	D11	positive regulation of actin filament depolymerization
+BP	GO:0032435	   4	 3.280	D11	negative regulation of proteasomal ubiquitin-dependent protein catabolic process
+BP	GO:0043433	   4	 2.979	D11	negative regulation of DNA-binding transcription factor activity
+BP	GO:0016479	   3	 2.803	D11	negative regulation of transcription by RNA polymerase I
+BP	GO:0061098	   3	 3.280	D11	positive regulation of protein tyrosine kinase activity
+BP	GO:0038066	   3	 2.979	D11	p38MAPK cascade
+BP	GO:0060566	   3	 3.280	D11	positive regulation of DNA-templated transcription, termination
+BP	GO:0070779	   3	 3.280	D11	D-aspartate import across plasma membrane
+BP	GO:0032785	   2	 3.280	D11	negative regulation of DNA-templated transcription, elongation
+BP	GO:2000144	   2	 2.201	D11	positive regulation of DNA-templated transcription, initiation
+BP	GO:0061001	   2	 2.502	D11	regulation of dendritic spine morphogenesis
+BP	GO:0016480	   1	 3.280	D11	negative regulation of transcription by RNA polymerase III
+BP	GO:2001008	   1	 3.280	D11	positive regulation of cellulose biosynthetic process
+BP	GO:0009371	   1	 3.280	D11	positive regulation of transcription by pheromones
+BP	GO:0070374	   1	 2.979	D11	positive regulation of ERK1 and ERK2 cascade
+BP	GO:0051572	   1	 3.280	D11	negative regulation of histone H3-K4 methylation
+BP	GO:0051571	   1	 3.280	D11	positive regulation of histone H3-K4 methylation
+BP	GO:0060999	   1	 2.678	D11	positive regulation of dendritic spine development
+BP	GO:0050775	   1	 2.377	D11	positive regulation of dendrite morphogenesis
+BP	GO:0046775	   1	 2.502	D11	suppression by virus of host cytokine production
+BP	GO:0046600	   1	 3.280	D11	negative regulation of centriole replication
+BP	GO:0090063	   1	 3.280	D11	positive regulation of microtubule nucleation
+BP	GO:0019050	   1	 2.678	D11	suppression by virus of host apoptotic process
+BP	GO:0015937	   1	 3.280	D11	coenzyme A biosynthetic process
+BP	GO:0002949	   1	 3.280	D11	tRNA threonylcarbamoyladenosine modification
+BP	GO:0034720	   1	 3.280	D11	histone H3-K4 demethylation
+BP	GO:2000635	   0	 3.280	D11	negative regulation of primary miRNA processing
+BP	GO:0061158	   0	 2.678	D11	3'-UTR-mediated mRNA destabilization
+BP	GO:2000632	   0	 3.280	D11	negative regulation of pre-miRNA processing
+BP	GO:0010944	   0	 3.280	D11	negative regulation of transcription by competitive promoter binding
+BP	GO:0042531	   0	 2.435	D11	positive regulation of tyrosine phosphorylation of STAT protein
+BP	GO:0033140	   0	 2.979	D11	negative regulation of peptidyl-serine phosphorylation of STAT protein
+BP	GO:0070373	   0	 2.803	D11	negative regulation of ERK1 and ERK2 cascade
+BP	GO:0031564	   0	 3.280	D11	transcription antitermination
+BP	GO:0061866	   0	 3.280	D11	negative regulation of histone H3-S10 phosphorylation
+BP	GO:0035893	   0	 2.979	D11	negative regulation of platelet aggregation in other organism
+BP	GO:0050713	   0	 3.280	D11	negative regulation of interleukin-1 beta secretion
+BP	GO:0035774	   0	 3.280	D11	positive regulation of insulin secretion involved in cellular response to glucose stimulus
+BP	GO:0090024	   0	 3.280	D11	negative regulation of neutrophil chemotaxis
+BP	GO:0090023	   0	 2.979	D11	positive regulation of neutrophil chemotaxis
+BP	GO:2000502	   0	 3.280	D11	negative regulation of natural killer cell chemotaxis
+BP	GO:0039505	   0	 3.280	D11	suppression by virus of host antigen processing and presentation of peptide antigen via MHC class II
+BP	GO:1905116	   0	 3.280	D11	positive regulation of lateral attachment of mitotic spindle microtubules to kinetochore
+BP	GO:0051496	   0	 2.979	D11	positive regulation of stress fiber assembly
+BP	GO:1905088	   0	 3.280	D11	positive regulation of synaptonemal complex assembly
+BP	GO:0000373	   0	 3.280	D11	Group II intron splicing
+BP	GO:0015970	   0	 3.280	D11	guanosine tetraphosphate biosynthetic process
+BP	GO:0035978	   0	 3.280	D11	histone H2A-S139 phosphorylation
+BP	GO:0021963	   0	 3.280	D11	spinothalamic tract morphogenesis
+BP	GO:1901895	   0	 3.280	D11	negative regulation of ATPase-coupled calcium transmembrane transporter activity
+BP	GO:1901896	   0	 3.280	D11	positive regulation of ATPase-coupled calcium transmembrane transporter activity
+BP	GO:0052085	   0	 3.280	D11	suppression by symbiont of host T-cell mediated immune response
+BP	GO:0048473	   0	 2.803	D11	D-methionine transport
+BP	GO:0043406	  17	 2.803	D12	positive regulation of MAP kinase activity
+BP	GO:0032933	  10	 2.979	D12	SREBP signaling pathway
+BP	GO:0043407	   6	 2.979	D12	negative regulation of MAP kinase activity
+BP	GO:0043506	   5	 3.280	D12	regulation of JUN kinase activity
+BP	GO:0030702	   5	 2.979	D12	chromatin silencing at centromere
+BP	GO:0030514	   4	 3.280	D12	negative regulation of BMP signaling pathway
+BP	GO:0000183	   3	 3.280	D12	chromatin silencing at rDNA
+BP	GO:0080182	   3	 2.581	D12	histone H3-K4 trimethylation
+BP	GO:1903467	   1	 3.280	D12	negative regulation of mitotic DNA replication initiation
+BP	GO:0060261	   1	 2.581	D12	positive regulation of transcription initiation from RNA polymerase II promoter
+BP	GO:0046329	   1	 3.280	D12	negative regulation of JNK cascade
+BP	GO:0090241	   1	 2.803	D12	negative regulation of histone H4 acetylation
+BP	GO:1901485	   0	 3.280	D12	positive regulation of transcription factor catabolic process
+BP	GO:0032148	   0	 3.280	D12	activation of protein kinase B activity
+BP	GO:0032793	   0	 3.280	D12	positive regulation of CREB transcription factor activity
+BP	GO:0035961	   0	 2.979	D12	positive regulation of ergosterol biosynthetic process by positive regulation of transcription from RNA polymerase II promoter
+BP	GO:1900020	   0	 3.280	D12	positive regulation of protein kinase C activity
+BP	GO:0097202	   0	 2.979	D12	activation of cysteine-type endopeptidase activity
+BP	GO:0051092	   0	 3.280	D12	positive regulation of NF-kappaB transcription factor activity
+BP	GO:0007171	   0	 3.280	D12	activation of transmembrane receptor protein tyrosine kinase activity
+BP	GO:0039548	   0	 2.979	D12	suppression by virus of host IRF3 activity
+BP	GO:1903753	   0	 3.280	D12	negative regulation of p38MAPK cascade
+BP	GO:0090053	   0	 2.678	D12	positive regulation of chromatin silencing at centromere
+BP	GO:0071442	   0	 3.280	D12	positive regulation of histone H3-K14 acetylation
+BP	GO:2000617	   0	 2.803	D12	positive regulation of histone H3-K9 acetylation
+BP	GO:1900111	   0	 3.280	D12	positive regulation of histone H3-K9 dimethylation
+BP	GO:2000616	   0	 3.280	D12	negative regulation of histone H3-K9 acetylation
+BP	GO:0071441	   0	 3.280	D12	negative regulation of histone H3-K14 acetylation
+BP	GO:0039602	   0	 3.280	D12	suppression by virus of host transcription initiation from RNA polymerase II promoter
+BP	GO:0039523	   0	 3.280	D12	suppression by virus of host RNA polymerase II activity
+BP	GO:0048842	   0	 3.280	D12	positive regulation of axon extension involved in axon guidance
+BP	GO:0061002	   0	 2.979	D12	negative regulation of dendritic spine morphogenesis
+BP	GO:0061003	   0	 2.803	D12	positive regulation of dendritic spine morphogenesis
+BP	GO:0039501	   0	 2.581	D12	suppression by virus of host type I interferon production
+BP	GO:0033215	   0	 3.280	D12	reductive iron assimilation
+BP	GO:0039650	   0	 3.280	D12	suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process
+BP	GO:0097692	   0	 2.435	D12	histone H3-K4 monomethylation
+BP	GO:0044648	   0	 2.502	D12	histone H3-K4 dimethylation
+BP	GO:0000187	   5	 2.979	D13	activation of MAPK activity
+BP	GO:0035666	   1	 3.280	D13	TRIF-dependent toll-like receptor signaling pathway
+BP	GO:1905528	   0	 2.979	D13	positive regulation of Golgi lumen acidification
+BP	GO:2001165	   0	 3.280	D13	positive regulation of phosphorylation of RNA polymerase II C-terminal domain serine 2 residues
+BP	GO:1990001	   0	 3.280	D13	inhibition of cysteine-type endopeptidase activity involved in apoptotic process
+BP	GO:2001268	   0	 2.979	D13	negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway
+BP	GO:1990872	   0	 3.280	D13	negative regulation of sterol import by negative regulation of transcription from RNA polymerase II promoter
+BP	GO:2000619	   0	 3.280	D13	negative regulation of histone H4-K16 acetylation
+BP	GO:0034316	   0	 3.280	D13	negative regulation of Arp2/3 complex-mediated actin nucleation
+BP	GO:0019509	   0	 3.280	D13	L-methionine salvage from methylthioadenosine
+BP	GO:0044579	   3	 2.979	D14	butyryl-CoA biosynthetic process from acetyl-CoA
+BP	GO:0039554	   0	 2.979	D14	suppression by virus of host MDA-5 activity
+CC	GO:0019012	  48	 0.671	D01	virion
+CC	GO:0005737	1202	 1.238	D02	cytoplasm
+CC	GO:0016020	1046	 0.957	D02	membrane
+CC	GO:0071944	 634	 2.979	D02	cell periphery
+CC	GO:0045202	 191	 2.280	D02	synapse
+CC	GO:0005576	 181	 2.979	D02	extracellular region
+CC	GO:0005654	 121	 1.979	D02	nucleoplasm
+CC	GO:0005829	  85	 1.899	D02	cytosol
+CC	GO:0000785	  78	 1.937	D02	chromatin
+CC	GO:0009579	  61	 2.979	D02	thylakoid
+CC	GO:0030054	  46	 2.076	D02	cell junction
+CC	GO:0019028	  31	 1.598	D02	viral capsid
+CC	GO:0017053	  25	 2.678	D02	transcriptional repressor complex
+CC	GO:0031252	  22	 2.979	D02	cell leading edge
+CC	GO:0005930	  22	 2.280	D02	axoneme
+CC	GO:0051286	  21	 2.200	D02	cell tip
+CC	GO:0009986	  19	 1.865	D02	cell surface
+CC	GO:0016234	  19	 2.979	D02	inclusion body
+CC	GO:0009295	  13	 2.377	D02	nucleoid
+CC	GO:0030428	  10	 2.134	D02	cell septum
+CC	GO:0070938	   9	 2.979	D02	contractile ring
+CC	GO:0035869	   8	 2.979	D02	ciliary transition zone
+CC	GO:0001750	   7	 2.979	D02	photoreceptor outer segment
+CC	GO:0048471	   7	 2.502	D02	perinuclear region of cytoplasm
+CC	GO:0098015	   6	 1.937	D02	virus tail
+CC	GO:0060187	   5	 2.678	D02	cell pole
+CC	GO:0000922	   5	 2.678	D02	spindle pole
+CC	GO:0042597	   4	 2.502	D02	periplasmic space
+CC	GO:0098021	   4	 2.377	D02	viral capsid, decoration
+CC	GO:0020016	   2	 2.678	D02	ciliary pocket
+CC	GO:0097038	   2	 2.979	D02	perinuclear endoplasmic reticulum
+CC	GO:0009330	   2	 2.979	D02	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex
+CC	GO:0043493	   2	 2.979	D02	viral terminase complex
+CC	GO:0030496	   1	 2.979	D02	midbody
+CC	GO:0001917	   1	 2.979	D02	photoreceptor inner segment
+CC	GO:0005652	   1	 2.979	D02	nuclear lamina
+CC	GO:0030018	   1	 2.979	D02	Z disc
+CC	GO:0043593	   0	 2.979	D02	endospore coat
+CC	GO:0097546	   0	 2.979	D02	ciliary base
+CC	GO:0001772	   0	 2.979	D02	immunological synapse
+CC	GO:0044099	   0	 2.377	D02	polar tube
+CC	GO:0032433	   0	 2.979	D02	filopodium tip
+CC	GO:0097542	   0	 2.979	D02	ciliary tip
+CC	GO:0005712	   0	 2.979	D02	chiasma
+CC	GO:0030061	   0	 2.678	D02	mitochondrial crista
+CC	GO:0010319	   0	 2.979	D02	stromule
+CC	GO:0045169	   0	 2.377	D02	fusome
+CC	GO:0097568	   0	 2.979	D02	median body
+CC	GO:0002096	   0	 2.678	D02	polkadots
+CC	GO:0008091	   0	 2.979	D02	spectrin
+CC	GO:0030870	   0	 2.979	D02	Mre11 complex
+CC	GO:0044777	   0	 2.979	D02	single-stranded DNA-binding protein complex
+CC	GO:0005577	   0	 2.979	D02	fibrinogen complex
+CC	GO:0031521	   0	 2.678	D02	spitzenkorper
+CC	GO:0034464	   0	 2.979	D02	BBSome
+CC	GO:0030257	   0	 2.979	D02	type III protein secretion system complex
+CC	GO:0046798	   0	 2.377	D02	viral portal complex
+CC	GO:0046806	   0	 2.979	D02	viral scaffold
+CC	GO:0098026	   0	 2.502	D02	virus tail, tube
+CC	GO:0046729	   0	 1.979	D02	viral procapsid
+CC	GO:0098023	   0	 2.979	D02	virus tail, tip
+CC	GO:0098024	   0	 2.502	D02	virus tail, fiber
+CC	GO:0098025	   0	 1.979	D02	virus tail, baseplate
+CC	GO:0098027	   0	 2.678	D02	virus tail, sheath
+CC	GO:0019033	   0	 2.076	D02	viral tegument
+CC	GO:0098029	   0	 2.678	D02	icosahedral viral capsid, spike
+CC	GO:0019013	   0	 1.937	D02	viral nucleocapsid
+CC	GO:0106139	   0	 2.134	D02	symbiont cell surface
+CC	GO:0005886	 470	 1.377	D03	plasma membrane
+CC	GO:0016021	 230	 1.937	D03	integral component of membrane
+CC	GO:0031226	 150	 2.134	D03	intrinsic component of plasma membrane
+CC	GO:0000790	  59	 2.076	D03	nuclear chromatin
+CC	GO:0019867	  47	 1.979	D03	outer membrane
+CC	GO:0005618	  44	 1.979	D03	cell wall
+CC	GO:0000775	  30	 2.502	D03	chromosome, centromeric region
+CC	GO:0030313	  26	 2.678	D03	cell envelope
+CC	GO:0000792	  21	 2.377	D03	heterochromatin
+CC	GO:0019030	  21	 2.076	D03	icosahedral viral capsid
+CC	GO:0043195	  17	 2.502	D03	terminal bouton
+CC	GO:0019897	  16	 2.979	D03	extrinsic component of plasma membrane
+CC	GO:0031594	  10	 2.502	D03	neuromuscular junction
+CC	GO:0036064	   9	 2.377	D03	ciliary basal body
+CC	GO:0097597	   6	 2.979	D03	ventral disc
+CC	GO:0035838	   6	 2.979	D03	growing cell tip
+CC	GO:0005746	   6	 2.979	D03	mitochondrial respirasome
+CC	GO:0043025	   5	 2.678	D03	neuronal cell body
+CC	GO:0005813	   5	 1.899	D03	centrosome
+CC	GO:0031240	   4	 2.678	D03	external side of cell outer membrane
+CC	GO:0034506	   3	 2.678	D03	chromosome, centromeric core domain
+CC	GO:0046930	   3	 2.678	D03	pore complex
+CC	GO:0001411	   2	 2.979	D03	hyphal tip
+CC	GO:0000935	   2	 2.979	D03	division septum
+CC	GO:0098022	   2	 2.979	D03	viral capsid, fiber
+CC	GO:0000942	   1	 2.979	D03	condensed nuclear chromosome outer kinetochore
+CC	GO:0042601	   0	 2.134	D03	endospore-forming forespore
+CC	GO:0030288	   0	 2.979	D03	outer membrane-bounded periplasmic space
+CC	GO:0035861	   0	 2.979	D03	site of double-strand break
+CC	GO:0090619	   0	 2.979	D03	meiotic spindle pole
+CC	GO:0009512	   0	 2.979	D03	cytochrome b6f complex
+CC	GO:1990178	   0	 2.979	D03	HU-DNA complex
+CC	GO:0000145	   0	 2.979	D03	exocyst
+CC	GO:0039642	   0	 2.979	D03	virion nucleoid
+CC	GO:0055036	   0	 1.979	D03	virion membrane
+CC	GO:0019031	   0	 2.076	D03	viral envelope
+CC	GO:0098018	   0	 2.979	D03	viral capsid, minor subunit
+CC	GO:0098017	   0	 2.502	D03	viral capsid, major subunit
+CC	GO:0031982	 302	 1.678	D04	vesicle
+CC	GO:0043005	 138	 1.937	D04	neuron projection
+CC	GO:0005887	 124	 2.678	D04	integral component of plasma membrane
+CC	GO:0005929	  95	 2.024	D04	cilium
+CC	GO:0012506	  76	 2.678	D04	vesicle membrane
+CC	GO:0005789	  59	 2.502	D04	endoplasmic reticulum membrane
+CC	GO:0097060	  47	 2.979	D04	synaptic membrane
+CC	GO:0005911	  38	 2.134	D04	cell-cell junction
+CC	GO:0033644	  37	 1.803	D04	host cell membrane
+CC	GO:0042651	  32	 2.678	D04	thylakoid membrane
+CC	GO:0005635	  29	 2.280	D04	nuclear envelope
+CC	GO:0005604	  23	 2.502	D04	basement membrane
+CC	GO:0009279	  20	 2.200	D04	cell outer membrane
+CC	GO:0009288	  17	 2.979	D04	bacterial-type flagellum
+CC	GO:0031160	  14	 2.134	D04	spore wall
+CC	GO:0009505	  13	 2.979	D04	plant-type cell wall
+CC	GO:0046658	  11	 2.979	D04	anchored component of plasma membrane
+CC	GO:0005720	  11	 2.678	D04	nuclear heterochromatin
+CC	GO:0031965	  10	 2.678	D04	nuclear membrane
+CC	GO:0009898	   9	 2.979	D04	cytoplasmic side of plasma membrane
+CC	GO:0044732	   9	 2.979	D04	mitotic spindle pole body
+CC	GO:0045261	   9	 2.678	D04	proton-transporting ATP synthase complex, catalytic core F(1)
+CC	GO:0031228	   8	 2.979	D04	intrinsic component of Golgi membrane
+CC	GO:0014069	   7	 2.678	D04	postsynaptic density
+CC	GO:0016028	   5	 2.979	D04	rhabdomere
+CC	GO:0016324	   5	 2.200	D04	apical plasma membrane
+CC	GO:0032154	   4	 2.979	D04	cleavage furrow
+CC	GO:0009274	   3	 2.979	D04	peptidoglycan-based cell wall
+CC	GO:0061174	   3	 2.678	D04	type I terminal bouton
+CC	GO:0016610	   3	 2.979	D04	nitrogenase complex
+CC	GO:0071782	   2	 2.979	D04	endoplasmic reticulum tubular network
+CC	GO:0016323	   1	 2.502	D04	basolateral plasma membrane
+CC	GO:0045203	   1	 2.979	D04	integral component of cell outer membrane
+CC	GO:0044295	   1	 2.678	D04	axonal growth cone
+CC	GO:0001726	   1	 2.979	D04	ruffle
+CC	GO:0044385	   1	 2.678	D04	integral to membrane of host cell
+CC	GO:0001931	   1	 2.979	D04	uropod
+CC	GO:0005802	   1	 2.280	D04	trans-Golgi network
+CC	GO:1990421	   1	 2.979	D04	subtelomeric heterochromatin
+CC	GO:0009325	   1	 2.979	D04	nitrate reductase complex
+CC	GO:0044228	   0	 2.502	D04	host cell surface
+CC	GO:0044538	   0	 2.502	D04	host cell periphery
+CC	GO:0002081	   0	 2.979	D04	outer acrosomal membrane
+CC	GO:0001725	   0	 2.979	D04	stress fiber
+CC	GO:0070732	   0	 2.979	D04	spindle envelope
+CC	GO:0035974	   0	 2.502	D04	meiotic spindle pole body
+CC	GO:0005971	   0	 2.979	D04	ribonucleoside-diphosphate reductase complex
+CC	GO:0016342	   0	 2.979	D04	catenin complex
+CC	GO:0017122	   0	 2.678	D04	protein N-acetylglucosaminyltransferase complex
+CC	GO:0039620	   0	 2.502	D04	T=7 icosahedral viral capsid
+CC	GO:0039615	   0	 2.678	D04	T=1 icosahedral viral capsid
+CC	GO:0039617	   0	 2.979	D04	T=3 icosahedral viral capsid
+CC	GO:0005634	 512	 1.029	D05	nucleus
+CC	GO:0097708	 289	 1.723	D05	intracellular vesicle
+CC	GO:0005856	 270	 2.979	D05	cytoskeleton
+CC	GO:0009536	 135	 1.803	D05	plastid
+CC	GO:0005739	  93	 1.636	D05	mitochondrion
+CC	GO:0005783	  86	 1.547	D05	endoplasmic reticulum
+CC	GO:0005773	  86	 2.280	D05	vacuole
+CC	GO:0030430	  60	 1.899	D05	host cell cytoplasm
+CC	GO:0030424	  59	 2.502	D05	axon
+CC	GO:0005794	  44	 1.700	D05	Golgi apparatus
+CC	GO:0030425	  38	 2.502	D05	dendrite
+CC	GO:0005743	  36	 2.502	D05	mitochondrial inner membrane
+CC	GO:0031514	  31	 2.678	D05	motile cilium
+CC	GO:0005730	  25	 1.833	D05	nucleolus
+CC	GO:0005759	  21	 2.134	D05	mitochondrial matrix
+CC	GO:0000139	  17	 2.979	D05	Golgi membrane
+CC	GO:0042734	  15	 2.979	D05	presynaptic membrane
+CC	GO:0000776	  15	 2.502	D05	kinetochore
+CC	GO:0045121	   7	 2.502	D05	membrane raft
+CC	GO:0009506	   6	 2.678	D05	plasmodesma
+CC	GO:0060170	   5	 2.678	D05	ciliary membrane
+CC	GO:0044384	   4	 2.678	D05	host outer membrane
+CC	GO:0031303	   4	 2.678	D05	integral component of endosome membrane
+CC	GO:0000137	   4	 2.979	D05	Golgi cis cisterna
+CC	GO:0044291	   3	 2.979	D05	cell-cell contact zone
+CC	GO:0030057	   3	 2.979	D05	desmosome
+CC	GO:0020002	   3	 1.979	D05	host cell plasma membrane
+CC	GO:0005811	   3	 2.979	D05	lipid droplet
+CC	GO:0005797	   3	 2.678	D05	Golgi medial cisterna
+CC	GO:0043590	   3	 2.678	D05	bacterial nucleoid
+CC	GO:0044191	   2	 2.979	D05	host cell mitochondrial membrane
+CC	GO:0005801	   2	 2.979	D05	cis-Golgi network
+CC	GO:0000275	   2	 2.979	D05	mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)
+CC	GO:0036406	   0	 2.979	D05	anchored component of periplasmic side of cell outer membrane
+CC	GO:0001527	   0	 2.979	D05	microfibril
+CC	GO:0120026	   0	 2.979	D05	host cell uropod
+CC	GO:0042151	   0	 2.502	D05	nematocyst
+CC	GO:0044222	   0	 1.979	D05	anammoxosome
+CC	GO:0005814	   0	 2.502	D05	centriole
+CC	GO:0045170	   0	 2.979	D05	spectrosome
+CC	GO:0005724	   0	 2.979	D05	nuclear telomeric heterochromatin
+CC	GO:0022627	   0	 2.979	D05	cytosolic small ribosomal subunit
+CC	GO:0048476	   0	 2.979	D05	Holliday junction resolvase complex
+CC	GO:0031410	 286	 1.748	D06	cytoplasmic vesicle
+CC	GO:0009507	  48	 1.937	D06	chloroplast
+CC	GO:0005874	  30	 2.200	D06	microtubule
+CC	GO:0030667	  23	 2.979	D06	secretory granule membrane
+CC	GO:0043197	  14	 2.678	D06	dendritic spine
+CC	GO:0016529	  10	 2.678	D06	sarcoplasmic reticulum
+CC	GO:0005791	  10	 2.502	D06	rough endoplasmic reticulum
+CC	GO:0005741	   9	 2.502	D06	mitochondrial outer membrane
+CC	GO:0000325	   8	 2.678	D06	plant-type vacuole
+CC	GO:0072686	   8	 2.979	D06	mitotic spindle
+CC	GO:0031901	   7	 2.979	D06	early endosome membrane
+CC	GO:0005884	   5	 2.979	D06	actin filament
+CC	GO:0005882	   5	 2.134	D06	intermediate filament
+CC	GO:0044199	   4	 2.979	D06	host cell nuclear envelope
+CC	GO:0070062	   2	 2.979	D06	extracellular exosome
+CC	GO:0032590	   2	 2.979	D06	dendrite membrane
+CC	GO:0005747	   2	 2.979	D06	mitochondrial respiratory chain complex I
+CC	GO:0044177	   1	 2.377	D06	host cell Golgi apparatus
+CC	GO:0005923	   1	 2.979	D06	bicellular tight junction
+CC	GO:0044163	   1	 2.377	D06	host cytoskeleton
+CC	GO:0032839	   1	 2.979	D06	dendrite cytoplasm
+CC	GO:0009705	   1	 2.502	D06	plant-type vacuole membrane
+CC	GO:0039662	   0	 2.979	D06	host cell outer membrane
+CC	GO:0039720	   0	 2.979	D06	virogenic stroma
+CC	GO:0044164	   0	 2.134	D06	host cell cytosol
+CC	GO:0019034	   0	 2.502	D06	viral replication complex
+CC	GO:0061689	   0	 2.979	D06	tricellular tight junction
+CC	GO:0044383	   0	 2.979	D06	host chromosome
+CC	GO:0044196	   0	 2.200	D06	host cell nucleolus
+CC	GO:0044220	   0	 2.979	D06	host cell perinuclear region of cytoplasm
+CC	GO:0020011	   0	 2.678	D06	apicoplast
+CC	GO:0031307	   0	 2.678	D06	integral component of mitochondrial outer membrane
+CC	GO:0005768	  76	 2.024	D07	endosome
+CC	GO:0005764	  35	 2.678	D07	lysosome
+CC	GO:0042025	  17	 1.748	D07	host cell nucleus
+CC	GO:0005881	  14	 2.502	D07	cytoplasmic microtubule
+CC	GO:0005765	  13	 2.979	D07	lysosomal membrane
+CC	GO:0044165	   7	 1.803	D07	host cell endoplasmic reticulum
+CC	GO:0033650	   5	 2.678	D07	host cell mitochondrion
+CC	GO:0044174	   5	 2.979	D07	host cell endosome
+CC	GO:0000778	   5	 2.979	D07	condensed nuclear chromosome kinetochore
+CC	GO:0020015	   2	 2.979	D07	glycosome
+CC	GO:0001673	   1	 2.979	D07	male germ cell nucleus
+CC	GO:0000932	   1	 2.979	D07	P-body
+CC	GO:0005883	   0	 2.979	D07	neurofilament
+CC	GO:0033391	   0	 2.979	D07	chromatoid body
+CC	GO:0030141	  56	 2.678	D08	secretory granule
+CC	GO:0005770	  14	 2.678	D08	late endosome
+CC	GO:0005769	  10	 2.377	D08	early endosome
+CC	GO:0097443	   0	 2.979	D08	sorting endosome
+CC	GO:0008021	  10	 2.979	D09	synaptic vesicle
+CC	GO:0005771	   6	 2.979	D09	multivesicular body
+CC	GO:0070111	   7	 2.979	D10	organellar chromatophore
+MF	GO:0045182	  14	 2.309	D01	translation regulator activity
+MF	GO:0016491	2401	 0.745	D02	oxidoreductase activity
+MF	GO:0016787	1494	 0.512	D02	hydrolase activity
+MF	GO:0022857	1009	 1.336	D02	transmembrane transporter activity
+MF	GO:0097159	 491	 1.628	D02	organic cyclic compound binding
+MF	GO:0016853	 263	 1.406	D02	isomerase activity
+MF	GO:0030234	 152	 1.729	D02	enzyme regulator activity
+MF	GO:0061783	   8	 1.395	D02	peptidoglycan muralytic activity
+MF	GO:0003700	   8	 1.966	D02	DNA-binding transcription factor activity
+MF	GO:0030371	   2	 2.707	D02	translation repressor activity
+MF	GO:0005199	   1	 3.008	D02	structural constituent of cell wall
+MF	GO:0000156	   0	 2.230	D02	phosphorelay response regulator activity
+MF	GO:0003735	   0	 3.008	D02	structural constituent of ribosome
+MF	GO:0016987	   0	 2.531	D02	sigma factor activity
+MF	GO:0016772	 602	 1.008	D03	transferase activity, transferring phosphorus-containing groups
+MF	GO:0016788	 561	 0.966	D03	hydrolase activity, acting on ester bonds
+MF	GO:0016757	 559	 1.345	D03	transferase activity, transferring glycosyl groups
+MF	GO:0004497	 468	 1.966	D03	monooxygenase activity
+MF	GO:0016746	 453	 1.593	D03	transferase activity, transferring acyl groups
+MF	GO:0051213	 251	 1.862	D03	dioxygenase activity
+MF	GO:0008233	  74	 1.384	D03	peptidase activity
+MF	GO:0042887	  57	 2.531	D03	amide transmembrane transporter activity
+MF	GO:0019213	  37	 2.105	D03	deacetylase activity
+MF	GO:0016229	  31	 3.008	D03	steroid dehydrogenase activity
+MF	GO:0009055	  11	 2.163	D03	electron transfer activity
+MF	GO:0009881	   5	 2.309	D03	photoreceptor activity
+MF	GO:0003906	   3	 3.008	D03	DNA-(apurinic or apyrimidinic site) endonuclease activity
+MF	GO:0000981	   3	 2.163	D03	DNA-binding transcription factor activity, RNA polymerase II-specific
+MF	GO:0030611	   2	 3.008	D03	arsenate reductase activity
+MF	GO:0003713	   2	 3.008	D03	transcription coactivator activity
+MF	GO:0001217	   1	 2.531	D03	DNA-binding transcription repressor activity
+MF	GO:0003714	   1	 2.531	D03	transcription corepressor activity
+MF	GO:0052614	   0	 3.008	D03	uracil oxygenase activity
+MF	GO:0008022	   0	 3.008	D03	protein C-terminus binding
+MF	GO:0051087	   0	 3.008	D03	chaperone binding
+MF	GO:0001618	   0	 2.309	D03	virus receptor activity
+MF	GO:0016747	 407	 1.628	D04	transferase activity, transferring acyl groups other than amino-acyl groups
+MF	GO:0016616	 407	 1.561	D04	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+MF	GO:0008168	 403	 1.464	D04	methyltransferase activity
+MF	GO:0016301	 352	 1.139	D04	kinase activity
+MF	GO:0016836	 164	 1.476	D04	hydro-lyase activity
+MF	GO:0004930	 160	 2.707	D04	G protein-coupled receptor activity
+MF	GO:0003677	 142	 1.752	D04	DNA binding
+MF	GO:0052689	 133	 1.646	D04	carboxylic ester hydrolase activity
+MF	GO:0016779	 119	 1.646	D04	nucleotidyltransferase activity
+MF	GO:0004518	 107	 1.364	D04	nuclease activity
+MF	GO:0016706	  86	 3.008	D04	2-oxoglutarate-dependent dioxygenase activity
+MF	GO:0070011	  69	 1.464	D04	peptidase activity, acting on L-amino acid peptides
+MF	GO:0016298	  30	 1.862	D04	lipase activity
+MF	GO:0016837	  28	 3.008	D04	carbon-oxygen lyase activity, acting on polysaccharides
+MF	GO:0019887	  23	 2.406	D04	protein kinase regulator activity
+MF	GO:0016855	  20	 1.832	D04	racemase and epimerase activity, acting on amino acids and derivatives
+MF	GO:0016841	  19	 2.707	D04	ammonia-lyase activity
+MF	GO:0004601	  16	 2.230	D04	peroxidase activity
+MF	GO:0033558	  13	 2.163	D04	protein deacetylase activity
+MF	GO:0016742	  13	 3.008	D04	hydroxymethyl-, formyl- and related transferase activity
+MF	GO:0016682	  13	 2.309	D04	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor
+MF	GO:0015036	  11	 2.054	D04	disulfide oxidoreductase activity
+MF	GO:0016615	   8	 2.406	D04	malate dehydrogenase activity
+MF	GO:0030414	   8	 2.054	D04	peptidase inhibitor activity
+MF	GO:0032549	   7	 2.707	D04	ribonucleoside binding
+MF	GO:0030695	   7	 3.008	D04	GTPase regulator activity
+MF	GO:0045289	   6	 3.008	D04	luciferin monooxygenase activity
+MF	GO:0004842	   4	 2.054	D04	ubiquitin-protein transferase activity
+MF	GO:0008940	   4	 2.707	D04	nitrate reductase activity
+MF	GO:0032453	   3	 2.707	D04	histone demethylase activity (H3-K4 specific)
+MF	GO:0008920	   3	 2.707	D04	lipopolysaccharide heptosyltransferase activity
+MF	GO:0003954	   3	 2.406	D04	NADH dehydrogenase activity
+MF	GO:0051920	   3	 2.707	D04	peroxiredoxin activity
+MF	GO:0003909	   2	 2.531	D04	DNA ligase activity
+MF	GO:0003913	   2	 3.008	D04	DNA photolyase activity
+MF	GO:0071771	   1	 3.008	D04	aldehyde decarbonylase activity
+MF	GO:0004016	   1	 2.707	D04	adenylate cyclase activity
+MF	GO:0008933	   1	 2.309	D04	lytic transglycosylase activity
+MF	GO:0030284	   1	 3.008	D04	estrogen receptor activity
+MF	GO:0008824	   0	 3.008	D04	cyanate hydratase activity
+MF	GO:0047113	   0	 3.008	D04	aldehyde dehydrogenase (quinone) activity
+MF	GO:0051747	   0	 3.008	D04	cytosine C-5 DNA demethylase activity
+MF	GO:0003917	   0	 3.008	D04	DNA topoisomerase type I (single strand cut, ATP-independent) activity
+MF	GO:0018492	   0	 3.008	D04	carbon-monoxide dehydrogenase (acceptor) activity
+MF	GO:0004744	   0	 3.008	D04	retinal isomerase activity
+MF	GO:0045154	   0	 3.008	D04	electron transporter, transferring electrons within cytochrome c oxidase complex activity
+MF	GO:0008760	   0	 3.008	D04	UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity
+MF	GO:0004019	   0	 3.008	D04	adenylosuccinate synthase activity
+MF	GO:0004657	   0	 2.707	D04	proline dehydrogenase activity
+MF	GO:0004512	   0	 3.008	D04	inositol-3-phosphate synthase activity
+MF	GO:0046028	   0	 3.008	D04	electron transporter, transferring electrons from cytochrome b6/f complex of photosystem II activity
+MF	GO:0003959	   0	 3.008	D04	NADPH dehydrogenase activity
+MF	GO:0004478	   0	 3.008	D04	methionine adenosyltransferase activity
+MF	GO:0018826	   0	 3.008	D04	methionine gamma-lyase activity
+MF	GO:0090614	   0	 2.707	D04	5'-methylthioadenosine deaminase activity
+MF	GO:1990380	   0	 3.008	D04	Lys48-specific deubiquitinase activity
+MF	GO:0046507	   0	 3.008	D04	UDPsulfoquinovose synthase activity
+MF	GO:0016034	   0	 3.008	D04	maleylacetoacetate isomerase activity
+MF	GO:0000286	   0	 3.008	D04	alanine dehydrogenase activity
+MF	GO:0003755	   0	 2.406	D04	peptidyl-prolyl cis-trans isomerase activity
+MF	GO:0016002	   0	 3.008	D04	sulfite reductase activity
+MF	GO:0090612	   0	 3.008	D04	cAMP deaminase activity
+MF	GO:0050371	   0	 3.008	D04	tyrosine phenol-lyase activity
+MF	GO:0090613	   0	 3.008	D04	5'-deoxyadenosine deaminase activity
+MF	GO:0047735	   0	 2.309	D04	cellobiose dehydrogenase (acceptor) activity
+MF	GO:0008961	   0	 3.008	D04	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+MF	GO:0004784	   0	 2.707	D04	superoxide dismutase activity
+MF	GO:0019826	   0	 3.008	D04	oxygen sensor activity
+MF	GO:0038025	   0	 2.707	D04	reelin receptor activity
+MF	GO:0015066	   0	 3.008	D04	alpha-amylase inhibitor activity
+MF	GO:0060703	   0	 3.008	D04	deoxyribonuclease inhibitor activity
+MF	GO:0016989	   0	 2.707	D04	sigma factor antagonist activity
+MF	GO:0001227	   0	 2.707	D04	DNA-binding transcription repressor activity, RNA polymerase II-specific
+MF	GO:0001228	   0	 2.406	D04	DNA-binding transcription activator activity, RNA polymerase II-specific
+MF	GO:0016791	 181	 1.665	D05	phosphatase activity
+MF	GO:0005216	 133	 2.008	D05	ion channel activity
+MF	GO:0004672	 112	 1.300	D05	protein kinase activity
+MF	GO:0046527	 109	 1.894	D05	glucosyltransferase activity
+MF	GO:0016407	 109	 2.054	D05	acetyltransferase activity
+MF	GO:0003690	  74	 2.707	D05	double-stranded DNA binding
+MF	GO:0008170	  64	 1.929	D05	N-methyltransferase activity
+MF	GO:0004519	  60	 1.686	D05	endonuclease activity
+MF	GO:0008081	  56	 1.894	D05	phosphoric diester hydrolase activity
+MF	GO:0008171	  49	 2.008	D05	O-methyltransferase activity
+MF	GO:0004536	  48	 1.665	D05	deoxyribonuclease activity
+MF	GO:0044212	  48	 1.832	D05	transcription regulatory region DNA binding
+MF	GO:0004540	  47	 1.929	D05	ribonuclease activity
+MF	GO:0008378	  41	 2.230	D05	galactosyltransferase activity
+MF	GO:0004527	  33	 1.752	D05	exonuclease activity
+MF	GO:0070566	  27	 2.406	D05	adenylyltransferase activity
+MF	GO:0008234	  20	 2.230	D05	cysteine-type peptidase activity
+MF	GO:0004175	  18	 1.804	D05	endopeptidase activity
+MF	GO:0016417	  16	 3.008	D05	S-acyltransferase activity
+MF	GO:0036361	  14	 1.929	D05	racemase activity, acting on amino acids and derivatives
+MF	GO:0004312	  13	 2.707	D05	fatty acid synthase activity
+MF	GO:0008376	  12	 2.707	D05	acetylgalactosaminyltransferase activity
+MF	GO:0008172	  11	 2.707	D05	S-methyltransferase activity
+MF	GO:0004645	  11	 2.707	D05	1,4-alpha-oligoglucan phosphorylase activity
+MF	GO:0004407	  10	 2.309	D05	histone deacetylase activity
+MF	GO:0008237	   9	 2.309	D05	metallopeptidase activity
+MF	GO:0016420	   9	 3.008	D05	malonyltransferase activity
+MF	GO:0004860	   8	 2.707	D05	protein kinase inhibitor activity
+MF	GO:0008236	   7	 2.163	D05	serine-type peptidase activity
+MF	GO:0009008	   6	 2.531	D05	DNA-methyltransferase activity
+MF	GO:0003697	   6	 3.008	D05	single-stranded DNA binding
+MF	GO:0061731	   5	 2.531	D05	ribonucleoside-diphosphate reductase activity
+MF	GO:0034061	   5	 2.230	D05	DNA polymerase activity
+MF	GO:0019171	   4	 2.707	D05	3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity
+MF	GO:0004000	   4	 2.531	D05	adenosine deaminase activity
+MF	GO:0004311	   3	 1.894	D05	farnesyltranstransferase activity
+MF	GO:0034338	   3	 3.008	D05	short-chain carboxylesterase activity
+MF	GO:0050136	   2	 2.707	D05	NADH dehydrogenase (quinone) activity
+MF	GO:0046573	   2	 2.406	D05	lactonohydrolase activity
+MF	GO:0004470	   2	 2.531	D05	malic enzyme activity
+MF	GO:0004337	   2	 1.777	D05	geranyltranstransferase activity
+MF	GO:0004097	   2	 2.531	D05	catechol oxidase activity
+MF	GO:0008998	   2	 3.008	D05	ribonucleoside-triphosphate reductase activity
+MF	GO:0004568	   2	 2.406	D05	chitinase activity
+MF	GO:0008800	   2	 2.105	D05	beta-lactamase activity
+MF	GO:0009013	   2	 2.707	D05	succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+MF	GO:0003867	   2	 2.531	D05	4-aminobutyrate transaminase activity
+MF	GO:0031490	   2	 3.008	D05	chromatin DNA binding
+MF	GO:0008320	   2	 2.707	D05	protein transmembrane transporter activity
+MF	GO:0034290	   2	 2.309	D05	holin activity
+MF	GO:0004614	   1	 3.008	D05	phosphoglucomutase activity
+MF	GO:0004806	   1	 2.531	D05	triglyceride lipase activity
+MF	GO:0004576	   1	 3.008	D05	oligosaccharyl transferase activity
+MF	GO:0061665	   1	 2.707	D05	SUMO ligase activity
+MF	GO:0061630	   1	 2.406	D05	ubiquitin protein ligase activity
+MF	GO:0015035	   1	 3.008	D05	protein disulfide oxidoreductase activity
+MF	GO:0051015	   1	 3.008	D05	actin filament binding
+MF	GO:0033041	   1	 3.008	D05	sweet taste receptor activity
+MF	GO:0019870	   1	 2.707	D05	potassium channel inhibitor activity
+MF	GO:0031071	   0	 3.008	D05	cysteine desulfurase activity
+MF	GO:0004161	   0	 3.008	D05	dimethylallyltranstransferase activity
+MF	GO:0004064	   0	 2.707	D05	arylesterase activity
+MF	GO:0140282	   0	 2.707	D05	carbon-nitrogen ligase activity on lipid II
+MF	GO:0008836	   0	 3.008	D05	diaminopimelate decarboxylase activity
+MF	GO:0047900	   0	 3.008	D05	formate kinase activity
+MF	GO:0004322	   0	 3.008	D05	ferroxidase activity
+MF	GO:0004508	   0	 3.008	D05	steroid 17-alpha-monooxygenase activity
+MF	GO:0004751	   0	 3.008	D05	ribose-5-phosphate isomerase activity
+MF	GO:0043857	   0	 3.008	D05	N-acetylornithine carbamoyltransferase activity
+MF	GO:0008932	   0	 3.008	D05	lytic endotransglycosylase activity
+MF	GO:0050279	   0	 3.008	D05	sepiapterin deaminase activity
+MF	GO:0050444	   0	 3.008	D05	aquacobalamin reductase (NADPH) activity
+MF	GO:0050526	   0	 3.008	D05	poly(3-hydroxybutyrate) depolymerase activity
+MF	GO:0016163	   0	 2.531	D05	nitrogenase activity
+MF	GO:0008909	   0	 3.008	D05	isochorismate synthase activity
+MF	GO:0033817	   0	 3.008	D05	beta-ketoacyl-acyl-carrier-protein synthase II activity
+MF	GO:0047040	   0	 3.008	D05	pteridine reductase activity
+MF	GO:0009045	   0	 2.707	D05	xylose isomerase activity
+MF	GO:0050270	   0	 2.406	D05	S-adenosylhomocysteine deaminase activity
+MF	GO:0004807	   0	 3.008	D05	triose-phosphate isomerase activity
+MF	GO:0008294	   0	 3.008	D05	calcium- and calmodulin-responsive adenylate cyclase activity
+MF	GO:0050218	   0	 3.008	D05	propionate-CoA ligase activity
+MF	GO:0016174	   0	 2.707	D05	NAD(P)H oxidase activity
+MF	GO:0048001	   0	 3.008	D05	erythrose-4-phosphate dehydrogenase activity
+MF	GO:0008966	   0	 3.008	D05	phosphoglucosamine mutase activity
+MF	GO:0030600	   0	 2.707	D05	feruloyl esterase activity
+MF	GO:0004333	   0	 3.008	D05	fumarate hydratase activity
+MF	GO:0047475	   0	 3.008	D05	phenylacetate-CoA ligase activity
+MF	GO:0004503	   0	 3.008	D05	monophenol monooxygenase activity
+MF	GO:0050388	   0	 3.008	D05	uronate dehydrogenase activity
+MF	GO:0052621	   0	 3.008	D05	diguanylate cyclase activity
+MF	GO:0050580	   0	 3.008	D05	2,5-didehydrogluconate reductase activity
+MF	GO:0004764	   0	 3.008	D05	shikimate 3-dehydrogenase (NADP+) activity
+MF	GO:0008745	   0	 2.105	D05	N-acetylmuramoyl-L-alanine amidase activity
+MF	GO:0003796	   0	 1.804	D05	lysozyme activity
+MF	GO:0016977	   0	 3.008	D05	chitosanase activity
+MF	GO:0046555	   0	 3.008	D05	acetylxylan esterase activity
+MF	GO:0009037	   0	 3.008	D05	tyrosine-based site-specific recombinase activity
+MF	GO:0003836	   0	 3.008	D05	beta-galactoside (CMP) alpha-2,3-sialyltransferase activity
+MF	GO:0008976	   0	 3.008	D05	polyphosphate kinase activity
+MF	GO:0003979	   0	 2.707	D05	UDP-glucose 6-dehydrogenase activity
+MF	GO:0008792	   0	 3.008	D05	arginine decarboxylase activity
+MF	GO:0080019	   0	 2.531	D05	fatty-acyl-CoA reductase (alcohol-forming) activity
+MF	GO:0004053	   0	 3.008	D05	arginase activity
+MF	GO:0047991	   0	 3.008	D05	hydroxylamine oxidase activity
+MF	GO:0047112	   0	 3.008	D05	pyruvate oxidase activity
+MF	GO:0051670	   0	 3.008	D05	inulinase activity
+MF	GO:0004148	   0	 2.707	D05	dihydrolipoyl dehydrogenase activity
+MF	GO:0045302	   0	 3.008	D05	choloylglycine hydrolase activity
+MF	GO:0008840	   0	 3.008	D05	4-hydroxy-tetrahydrodipicolinate synthase activity
+MF	GO:0004412	   0	 3.008	D05	homoserine dehydrogenase activity
+MF	GO:0004345	   0	 3.008	D05	glucose-6-phosphate dehydrogenase activity
+MF	GO:0047516	   0	 3.008	D05	1,3-propanediol dehydrogenase activity
+MF	GO:0003994	   0	 3.008	D05	aconitate hydratase activity
+MF	GO:1990594	   0	 3.008	D05	L-altrarate dehydratase activity
+MF	GO:0004634	   0	 3.008	D05	phosphopyruvate hydratase activity
+MF	GO:0050587	   0	 3.008	D05	chlorite O2-lyase activity
+MF	GO:0008763	   0	 3.008	D05	UDP-N-acetylmuramate-L-alanine ligase activity
+MF	GO:0018685	   0	 3.008	D05	alkane 1-monooxygenase activity
+MF	GO:0030338	   0	 3.008	D05	CMP-N-acetylneuraminate monooxygenase activity
+MF	GO:0034556	   0	 3.008	D05	nitrobenzoate nitroreductase activity
+MF	GO:0018633	   0	 3.008	D05	dimethyl sulfide monooxygenase activity
+MF	GO:0047134	   0	 2.707	D05	protein-disulfide reductase activity
+MF	GO:0033818	   0	 2.531	D05	beta-ketoacyl-acyl-carrier-protein synthase III activity
+MF	GO:0004586	   0	 2.707	D05	ornithine decarboxylase activity
+MF	GO:0004743	   0	 2.531	D05	pyruvate kinase activity
+MF	GO:0047769	   0	 3.008	D05	arogenate dehydratase activity
+MF	GO:0004159	   0	 3.008	D05	dihydrouracil dehydrogenase (NAD+) activity
+MF	GO:0004813	   0	 3.008	D05	alanine-tRNA ligase activity
+MF	GO:0034649	   0	 3.008	D05	histone demethylase activity (H3-monomethyl-K4 specific)
+MF	GO:0008941	   0	 3.008	D05	nitric oxide dioxygenase activity
+MF	GO:0050002	   0	 3.008	D05	D-proline reductase (dithiol) activity
+MF	GO:0004616	   0	 3.008	D05	phosphogluconate dehydrogenase (decarboxylating) activity
+MF	GO:0047411	   0	 3.008	D05	2-(acetamidomethylene)succinate hydrolase activity
+MF	GO:0008863	   0	 3.008	D05	formate dehydrogenase (NAD+) activity
+MF	GO:0008839	   0	 3.008	D05	4-hydroxy-tetrahydrodipicolinate reductase
+MF	GO:0004664	   0	 3.008	D05	prephenate dehydratase activity
+MF	GO:0047808	   0	 3.008	D05	D(-)-tartrate dehydratase activity
+MF	GO:0004347	   0	 3.008	D05	glucose-6-phosphate isomerase activity
+MF	GO:0003989	   0	 2.406	D05	acetyl-CoA carboxylase activity
+MF	GO:0034648	   0	 3.008	D05	histone demethylase activity (H3-dimethyl-K4 specific)
+MF	GO:0003972	   0	 3.008	D05	RNA ligase (ATP) activity
+MF	GO:0008716	   0	 2.707	D05	D-alanine-D-alanine ligase activity
+MF	GO:0004505	   0	 2.707	D05	phenylalanine 4-monooxygenase activity
+MF	GO:0008866	   0	 3.008	D05	fructuronate reductase activity
+MF	GO:0008929	   0	 3.008	D05	methylglyoxal synthase activity
+MF	GO:0008980	   0	 3.008	D05	propionate kinase activity
+MF	GO:0003844	   0	 3.008	D05	1,4-alpha-glucan branching enzyme activity
+MF	GO:0050421	   0	 2.707	D05	nitrite reductase (NO-forming) activity
+MF	GO:0004146	   0	 2.309	D05	dihydrofolate reductase activity
+MF	GO:0016871	   0	 3.008	D05	cycloartenol synthase activity
+MF	GO:0003835	   0	 3.008	D05	beta-galactoside alpha-2,6-sialyltransferase activity
+MF	GO:0047925	   0	 3.008	D05	geranoyl-CoA carboxylase activity
+MF	GO:0050346	   0	 2.163	D05	trans-L-3-hydroxyproline dehydratase activity
+MF	GO:0004089	   0	 2.531	D05	carbonate dehydratase activity
+MF	GO:0003756	   0	 2.406	D05	protein disulfide isomerase activity
+MF	GO:0008979	   0	 2.707	D05	prophage integrase activity
+MF	GO:0016984	   0	 2.707	D05	ribulose-bisphosphate carboxylase activity
+MF	GO:0016966	   0	 2.054	D05	nitric oxide reductase activity
+MF	GO:0008776	   0	 3.008	D05	acetate kinase activity
+MF	GO:0008677	   0	 2.707	D05	2-dehydropantoate 2-reductase activity
+MF	GO:0050608	   0	 2.707	D05	vanillin dehydrogenase activity
+MF	GO:0018506	   0	 3.008	D05	maleylacetate reductase activity
+MF	GO:0004604	   0	 3.008	D05	phosphoadenylyl-sulfate reductase (thioredoxin) activity
+MF	GO:0003996	   0	 3.008	D05	acyl-CoA ligase activity
+MF	GO:0050358	   0	 3.008	D05	tropinone reductase activity
+MF	GO:0004846	   0	 3.008	D05	urate oxidase activity
+MF	GO:0008810	   0	 2.531	D05	cellulase activity
+MF	GO:0004649	   0	 2.531	D05	poly(ADP-ribose) glycohydrolase activity
+MF	GO:0008713	   0	 3.008	D05	ADP-heptose-lipopolysaccharide heptosyltransferase activity
+MF	GO:0042602	   0	 3.008	D05	riboflavin reductase (NADPH) activity
+MF	GO:0016165	   0	 2.309	D05	linoleate 13S-lipoxygenase activity
+MF	GO:0008721	   0	 3.008	D05	D-serine ammonia-lyase activity
+MF	GO:0004040	   0	 3.008	D05	amidase activity
+MF	GO:0051060	   0	 3.008	D05	pullulanase activity
+MF	GO:0047102	   0	 3.008	D05	aminomuconate-semialdehyde dehydrogenase activity
+MF	GO:0008939	   0	 3.008	D05	nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity
+MF	GO:0050490	   0	 2.707	D05	1,4-lactonase activity
+MF	GO:0019153	   0	 3.008	D05	protein-disulfide reductase (glutathione) activity
+MF	GO:0050062	   0	 3.008	D05	long-chain-fatty-acyl-CoA reductase activity
+MF	GO:0003856	   0	 3.008	D05	3-dehydroquinate synthase activity
+MF	GO:0047286	   0	 3.008	D05	NAD+-diphthamide ADP-ribosyltransferase activity
+MF	GO:0003987	   0	 2.531	D05	acetate-CoA ligase activity
+MF	GO:0004111	   0	 3.008	D05	creatine kinase activity
+MF	GO:0018504	   0	 3.008	D05	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase activity
+MF	GO:0045551	   0	 2.707	D05	cinnamyl-alcohol dehydrogenase activity
+MF	GO:0004517	   0	 3.008	D05	nitric-oxide synthase activity
+MF	GO:0004103	   0	 2.707	D05	choline kinase activity
+MF	GO:0004062	   0	 3.008	D05	aryl sulfotransferase activity
+MF	GO:0004485	   0	 3.008	D05	methylcrotonoyl-CoA carboxylase activity
+MF	GO:0000721	   0	 3.008	D05	(R,R)-butanediol dehydrogenase activity
+MF	GO:0009024	   0	 3.008	D05	tagatose-6-phosphate kinase activity
+MF	GO:0003910	   0	 3.008	D05	DNA ligase (ATP) activity
+MF	GO:0004332	   0	 3.008	D05	fructose-bisphosphate aldolase activity
+MF	GO:0004341	   0	 3.008	D05	gluconolactonase activity
+MF	GO:0008131	   0	 3.008	D05	primary amine oxidase activity
+MF	GO:0004143	   0	 3.008	D05	diacylglycerol kinase activity
+MF	GO:0033922	   0	 2.707	D05	peptidoglycan beta-N-acetylmuramidase activity
+MF	GO:0050023	   0	 3.008	D05	L-fuconate dehydratase activity
+MF	GO:0008867	   0	 2.406	D05	galactarate dehydratase activity
+MF	GO:0008761	   0	 3.008	D05	UDP-N-acetylglucosamine 2-epimerase activity
+MF	GO:0008927	   0	 2.008	D05	mannonate dehydratase activity
+MF	GO:0008747	   0	 3.008	D05	N-acetylneuraminate lyase activity
+MF	GO:0033918	   0	 3.008	D05	kappa-carrageenase activity
+MF	GO:0050182	   0	 3.008	D05	phosphate butyryltransferase activity
+MF	GO:0019875	   0	 3.008	D05	6-aminohexanoate-dimer hydrolase activity
+MF	GO:0047849	   0	 3.008	D05	dextransucrase activity
+MF	GO:0004791	   0	 2.707	D05	thioredoxin-disulfide reductase activity
+MF	GO:0004096	   0	 2.406	D05	catalase activity
+MF	GO:1990814	   0	 3.008	D05	DNA/DNA annealing activity
+MF	GO:0010331	   0	 3.008	D05	gibberellin binding
+MF	GO:0001515	   0	 3.008	D05	opioid peptide activity
+MF	GO:0045499	   0	 2.707	D05	chemorepellent activity
+MF	GO:0008494	   0	 3.008	D05	translation activator activity
+MF	GO:0019855	   0	 2.406	D05	calcium channel inhibitor activity
+MF	GO:0060230	   0	 3.008	D05	lipoprotein lipase activator activity
+MF	GO:0035251	  81	 2.230	D06	UDP-glucosyltransferase activity
+MF	GO:0017111	  61	 1.300	D06	nucleoside-triphosphatase activity
+MF	GO:0008080	  61	 2.230	D06	N-acetyltransferase activity
+MF	GO:0004674	  53	 1.646	D06	protein serine/threonine kinase activity
+MF	GO:0008649	  33	 3.008	D06	rRNA methyltransferase activity
+MF	GO:0004721	  32	 2.054	D06	phosphoprotein phosphatase activity
+MF	GO:0035250	  30	 2.707	D06	UDP-galactosyltransferase activity
+MF	GO:0004520	  29	 1.929	D06	endodeoxyribonuclease activity
+MF	GO:0004713	  28	 2.406	D06	protein tyrosine kinase activity
+MF	GO:0004521	  27	 2.163	D06	endoribonuclease activity
+MF	GO:0008422	  21	 2.406	D06	beta-glucosidase activity
+MF	GO:0052866	  19	 3.008	D06	phosphatidylinositol phosphate phosphatase activity
+MF	GO:0004029	  19	 2.163	D06	aldehyde dehydrogenase (NAD+) activity
+MF	GO:0004529	  16	 2.054	D06	exodeoxyribonuclease activity
+MF	GO:0047429	  15	 3.008	D06	nucleoside-triphosphate diphosphatase activity
+MF	GO:0016278	  11	 2.309	D06	lysine N-methyltransferase activity
+MF	GO:0004112	  10	 2.531	D06	cyclic-nucleotide phosphodiesterase activity
+MF	GO:0017110	   9	 3.008	D06	nucleoside-diphosphatase activity
+MF	GO:0015288	   9	 2.707	D06	porin activity
+MF	GO:0008408	   8	 2.054	D06	3'-5' exonuclease activity
+MF	GO:0004629	   8	 2.531	D06	phospholipase C activity
+MF	GO:0004180	   8	 2.406	D06	carboxypeptidase activity
+MF	GO:0004022	   7	 2.309	D06	alcohol dehydrogenase (NAD+) activity
+MF	GO:0008106	   6	 2.707	D06	alcohol dehydrogenase (NADP+) activity
+MF	GO:0008174	   6	 3.008	D06	mRNA methyltransferase activity
+MF	GO:0004197	   6	 2.406	D06	cysteine-type endopeptidase activity
+MF	GO:0008409	   6	 2.230	D06	5'-3' exonuclease activity
+MF	GO:0015112	   5	 3.008	D06	nitrate transmembrane transporter activity
+MF	GO:0017136	   4	 2.707	D06	NAD-dependent histone deacetylase activity
+MF	GO:0004396	   3	 2.163	D06	hexokinase activity
+MF	GO:0048531	   3	 3.008	D06	beta-1,3-galactosyltransferase activity
+MF	GO:0003964	   3	 3.008	D06	RNA-directed DNA polymerase activity
+MF	GO:0004567	   3	 3.008	D06	beta-mannosidase activity
+MF	GO:0004748	   3	 2.707	D06	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor
+MF	GO:0005506	   3	 3.008	D06	iron ion binding
+MF	GO:0030291	   3	 3.008	D06	protein serine/threonine kinase inhibitor activity
+MF	GO:0004623	   2	 3.008	D06	phospholipase A2 activity
+MF	GO:0034739	   2	 3.008	D06	histone deacetylase activity (H4-K16 specific)
+MF	GO:0004190	   2	 2.707	D06	aspartic-type endopeptidase activity
+MF	GO:0010857	   2	 3.008	D06	calcium-dependent protein kinase activity
+MF	GO:0015155	   2	 2.707	D06	lactose transmembrane transporter activity
+MF	GO:0015106	   2	 3.008	D06	bicarbonate transmembrane transporter activity
+MF	GO:0004869	   2	 3.008	D06	cysteine-type endopeptidase inhibitor activity
+MF	GO:0004222	   1	 2.707	D06	metalloendopeptidase activity
+MF	GO:0004630	   1	 3.008	D06	phospholipase D activity
+MF	GO:0016412	   1	 3.008	D06	serine O-acyltransferase activity
+MF	GO:0015200	   1	 2.707	D06	methylammonium transmembrane transporter activity
+MF	GO:0004799	   0	 2.707	D06	thymidylate synthase activity
+MF	GO:0008970	   0	 3.008	D06	phospholipase A1 activity
+MF	GO:0008705	   0	 3.008	D06	methionine synthase activity
+MF	GO:0050640	   0	 3.008	D06	isopenicillin-N N-acyltransferase activity
+MF	GO:0009007	   0	 3.008	D06	site-specific DNA-methyltransferase (adenine-specific) activity
+MF	GO:0097657	   0	 3.008	D06	3',5'-nucleotide bisphosphate phosphatase activity
+MF	GO:0008878	   0	 3.008	D06	glucose-1-phosphate adenylyltransferase activity
+MF	GO:0001730	   0	 3.008	D06	2'-5'-oligoadenylate synthetase activity
+MF	GO:0061990	   0	 3.008	D06	beta-ketodecanoyl-[acyl-carrier-protein] synthase activity
+MF	GO:0035885	   0	 3.008	D06	exochitinase activity
+MF	GO:0004556	   0	 2.531	D06	alpha-amylase activity
+MF	GO:0003876	   0	 2.707	D06	AMP deaminase activity
+MF	GO:0061784	   0	 2.230	D06	peptidoglycan N-acetylglucosaminidase activity
+MF	GO:0050081	   0	 3.008	D06	maltose-6'-phosphate glucosidase activity
+MF	GO:0046406	   0	 3.008	D06	magnesium protoporphyrin IX methyltransferase activity
+MF	GO:0047763	   0	 2.707	D06	caffeate O-methyltransferase activity
+MF	GO:0016213	   0	 3.008	D06	linoleoyl-CoA desaturase activity
+MF	GO:0008773	   0	 3.008	D06	[protein-PII] uridylyltransferase activity
+MF	GO:0047696	   0	 2.707	D06	beta-adrenergic receptor kinase activity
+MF	GO:0004072	   0	 3.008	D06	aspartate kinase activity
+MF	GO:0004360	   0	 3.008	D06	glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+MF	GO:0008882	   0	 3.008	D06	[glutamate-ammonia-ligase] adenylyltransferase activity
+MF	GO:0004309	   0	 2.531	D06	exopolyphosphatase activity
+MF	GO:0031176	   0	 3.008	D06	endo-1,4-beta-xylanase activity
+MF	GO:0009018	   0	 3.008	D06	sucrose phosphorylase activity
+MF	GO:0008843	   0	 3.008	D06	endochitinase activity
+MF	GO:0004063	   0	 3.008	D06	aryldialkylphosphatase activity
+MF	GO:0071111	   0	 3.008	D06	cyclic-guanylate-specific phosphodiesterase activity
+MF	GO:0009922	   0	 3.008	D06	fatty acid elongase activity
+MF	GO:0051741	   0	 3.008	D06	2-methyl-6-phytyl-1,4-benzoquinone methyltransferase activity
+MF	GO:0008964	   0	 2.707	D06	phosphoenolpyruvate carboxylase activity
+MF	GO:0045127	   0	 3.008	D06	N-acetylglucosamine kinase activity
+MF	GO:0047390	   0	 3.008	D06	glycerophosphocholine cholinephosphodiesterase activity
+MF	GO:0004653	   0	 3.008	D06	polypeptide N-acetylgalactosaminyltransferase activity
+MF	GO:0000773	   0	 3.008	D06	phosphatidyl-N-methylethanolamine N-methyltransferase activity
+MF	GO:0004352	   0	 3.008	D06	glutamate dehydrogenase (NAD+) activity
+MF	GO:0033813	   0	 3.008	D06	deacetylcephalosporin-C acetyltransferase activity
+MF	GO:0004354	   0	 3.008	D06	glutamate dehydrogenase (NADP+) activity
+MF	GO:0004471	   0	 3.008	D06	malate dehydrogenase (decarboxylating) (NAD+) activity
+MF	GO:0050306	   0	 3.008	D06	sucrose 1F-fructosyltransferase activity
+MF	GO:0036263	   0	 3.008	D06	L-DOPA monooxygenase activity
+MF	GO:0033920	   0	 2.707	D06	6-phospho-beta-galactosidase activity
+MF	GO:0034602	   0	 3.008	D06	oxoglutarate dehydrogenase (NAD+) activity
+MF	GO:0033825	   0	 2.707	D06	oligosaccharide 4-alpha-D-glucosyltransferase activity
+MF	GO:0050797	   0	 3.008	D06	thymidylate synthase (FAD) activity
+MF	GO:0050265	   0	 3.008	D06	RNA uridylyltransferase activity
+MF	GO:0032001	   0	 2.707	D06	1,4-alpha-glucan 6-alpha-glucosyltransferase activity
+MF	GO:0047100	   0	 2.707	D06	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) activity
+MF	GO:0008750	   0	 3.008	D06	NAD(P)+ transhydrogenase (AB-specific) activity
+MF	GO:0042409	   0	 3.008	D06	caffeoyl-CoA O-methyltransferase activity
+MF	GO:0004450	   0	 3.008	D06	isocitrate dehydrogenase (NADP+) activity
+MF	GO:0004169	   0	 3.008	D06	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+MF	GO:0004465	   0	 3.008	D06	lipoprotein lipase activity
+MF	GO:0004777	   0	 3.008	D06	succinate-semialdehyde dehydrogenase (NAD+) activity
+MF	GO:0004565	   0	 2.531	D06	beta-galactosidase activity
+MF	GO:0008195	   0	 3.008	D06	phosphatidate phosphatase activity
+MF	GO:0004356	   0	 2.531	D06	glutamate-ammonia ligase activity
+MF	GO:0004335	   0	 3.008	D06	galactokinase activity
+MF	GO:0047389	   0	 3.008	D06	glycerophosphocholine phosphodiesterase activity
+MF	GO:0003887	   0	 2.406	D06	DNA-directed DNA polymerase activity
+MF	GO:0009927	   0	 3.008	D06	histidine phosphotransfer kinase activity
+MF	GO:0008009	   0	 3.008	D06	chemokine activity
+MF	GO:0003743	   0	 3.008	D06	translation initiation factor activity
+MF	GO:1904091	   0	 2.707	D06	peptidyl carrier protein activity
+MF	GO:0034292	   0	 3.008	D06	pinholin activity
+MF	GO:0032217	   0	 2.707	D06	riboflavin transmembrane transporter activity
+MF	GO:0034291	   0	 2.406	D06	canonical holin activity
+MF	GO:0008226	   0	 3.008	D06	tyramine receptor activity
+MF	GO:0004867	   0	 2.406	D06	serine-type endopeptidase inhibitor activity
+MF	GO:0008427	   0	 3.008	D06	calcium-dependent protein kinase inhibitor activity
+MF	GO:0019828	   0	 3.008	D06	aspartic-type endopeptidase inhibitor activity
+MF	GO:0008657	   0	 3.008	D06	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity
+MF	GO:0015079	  44	 2.531	D07	potassium ion transmembrane transporter activity
+MF	GO:0016887	  43	 1.384	D07	ATPase activity
+MF	GO:0000976	  29	 3.008	D07	transcription regulatory region sequence-specific DNA binding
+MF	GO:0034212	  28	 2.531	D07	peptide N-acetyltransferase activity
+MF	GO:0003899	  12	 2.406	D07	DNA-directed 5'-3' RNA polymerase activity
+MF	GO:0050308	  11	 2.531	D07	sugar-phosphatase activity
+MF	GO:0016279	  10	 2.406	D07	protein-lysine N-methyltransferase activity
+MF	GO:0004725	   6	 2.707	D07	protein tyrosine phosphatase activity
+MF	GO:0004722	   6	 2.707	D07	protein serine/threonine phosphatase activity
+MF	GO:0003924	   4	 2.105	D07	GTPase activity
+MF	GO:0004683	   3	 2.707	D07	calmodulin-dependent protein kinase activity
+MF	GO:0004707	   2	 2.707	D07	MAP kinase activity
+MF	GO:0008253	   2	 2.707	D07	5'-nucleotidase activity
+MF	GO:0043273	   2	 3.008	D07	CTPase activity
+MF	GO:0000014	   2	 3.008	D07	single-stranded DNA endodeoxyribonuclease activity
+MF	GO:0004697	   2	 2.707	D07	protein kinase C activity
+MF	GO:0061786	   0	 2.406	D07	peptidoglycan stem peptide endopeptidase activity
+MF	GO:0003831	   0	 3.008	D07	beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity
+MF	GO:1990238	   0	 2.406	D07	double-stranded DNA endodeoxyribonuclease activity
+MF	GO:0070006	   0	 3.008	D07	metalloaminopeptidase activity
+MF	GO:0004113	   0	 3.008	D07	2',3'-cyclic-nucleotide 3'-phosphodiesterase activity
+MF	GO:0003825	   0	 3.008	D07	alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity
+MF	GO:0050429	   0	 3.008	D07	calcium-dependent phospholipase C activity
+MF	GO:0004026	   0	 3.008	D07	alcohol O-acetyltransferase activity
+MF	GO:0004575	   0	 3.008	D07	sucrose alpha-glucosidase activity
+MF	GO:0047270	   0	 3.008	D07	lipopolysaccharide glucosyltransferase II activity
+MF	GO:0036374	   0	 3.008	D07	glutathione hydrolase activity
+MF	GO:0018479	   0	 3.008	D07	benzaldehyde dehydrogenase (NAD+) activity
+MF	GO:0046969	   0	 3.008	D07	NAD-dependent histone deacetylase activity (H3-K9 specific)
+MF	GO:0008919	   0	 3.008	D07	lipopolysaccharide glucosyltransferase I activity
+MF	GO:0046027	   0	 3.008	D07	phospholipid:diacylglycerol acyltransferase activity
+MF	GO:0017005	   0	 2.707	D07	3'-tyrosyl-DNA phosphodiesterase activity
+MF	GO:0004059	   0	 3.008	D07	aralkylamine N-acetyltransferase activity
+MF	GO:0016231	   0	 3.008	D07	beta-N-acetylglucosaminidase activity
+MF	GO:0004435	   0	 3.008	D07	phosphatidylinositol phospholipase C activity
+MF	GO:0050295	   0	 3.008	D07	steryl-beta-glucosidase activity
+MF	GO:0004095	   0	 3.008	D07	carnitine O-palmitoyltransferase activity
+MF	GO:0018112	   0	 3.008	D07	proline racemase activity
+MF	GO:0004581	   0	 3.008	D07	dolichyl-phosphate beta-glucosyltransferase activity
+MF	GO:0004805	   0	 2.707	D07	trehalose-phosphatase activity
+MF	GO:0004338	   0	 3.008	D07	glucan exo-1,3-beta-glucosidase activity
+MF	GO:0033938	   0	 3.008	D07	1,6-alpha-L-fucosidase activity
+MF	GO:0004340	   0	 2.230	D07	glucokinase activity
+MF	GO:0033932	   0	 3.008	D07	1,3-alpha-L-fucosidase activity
+MF	GO:0016760	   0	 3.008	D07	cellulose synthase (UDP-forming) activity
+MF	GO:0003968	   0	 2.230	D07	RNA-directed 5'-3' RNA polymerase activity
+MF	GO:0016287	   0	 3.008	D07	glycerone-phosphate O-acyltransferase activity
+MF	GO:0047580	   0	 2.008	D07	4-hydroxyproline epimerase activity
+MF	GO:0003872	   0	 2.707	D07	6-phosphofructokinase activity
+MF	GO:0004362	   0	 2.531	D07	glutathione-disulfide reductase activity
+MF	GO:0000155	   0	 2.163	D07	phosphorelay sensor kinase activity
+MF	GO:0042623	  42	 1.610	D08	ATPase activity, coupled
+MF	GO:0015299	  20	 2.230	D08	solute:proton antiporter activity
+MF	GO:0005272	  10	 3.008	D08	sodium channel activity
+MF	GO:0005381	   6	 2.707	D08	iron ion transmembrane transporter activity
+MF	GO:0008469	   4	 2.707	D08	histone-arginine N-methyltransferase activity
+MF	GO:0035312	   4	 2.531	D08	5'-3' exodeoxyribonuclease activity
+MF	GO:0005385	   4	 3.008	D08	zinc ion transmembrane transporter activity
+MF	GO:0000175	   3	 2.707	D08	3'-5'-exoribonuclease activity
+MF	GO:0008296	   2	 2.406	D08	3'-5'-exodeoxyribonuclease activity
+MF	GO:0005003	   2	 3.008	D08	ephrin receptor activity
+MF	GO:0004525	   1	 3.008	D08	ribonuclease III activity
+MF	GO:0015129	   1	 3.008	D08	lactate transmembrane transporter activity
+MF	GO:0009002	   0	 2.531	D08	serine-type D-Ala-D-Ala carboxypeptidase activity
+MF	GO:0032067	   0	 3.008	D08	type IV site-specific deoxyribonuclease activity
+MF	GO:0004809	   0	 3.008	D08	tRNA (guanine-N2-)-methyltransferase activity
+MF	GO:0070551	   0	 2.707	D08	endoribonuclease activity, cleaving siRNA-paired mRNA
+MF	GO:0004331	   0	 2.707	D08	fructose-2,6-bisphosphate 2-phosphatase activity
+MF	GO:0004523	   0	 3.008	D08	RNA-DNA hybrid ribonuclease activity
+MF	GO:0032450	   0	 3.008	D08	maltose alpha-glucosidase activity
+MF	GO:0004534	   0	 3.008	D08	5'-3' exoribonuclease activity
+MF	GO:0008821	   0	 2.531	D08	crossover junction endodeoxyribonuclease activity
+MF	GO:0003896	   0	 2.707	D08	DNA primase activity
+MF	GO:0008420	   0	 3.008	D08	RNA polymerase II CTD heptapeptide repeat phosphatase activity
+MF	GO:0032866	   0	 3.008	D08	D-xylose:NADP reductase activity
+MF	GO:0004530	   0	 3.008	D08	deoxyribonuclease I activity
+MF	GO:0034039	   0	 3.008	D08	8-oxo-7,8-dihydroguanine DNA N-glycosylase activity
+MF	GO:0000213	   0	 3.008	D08	tRNA-intron endonuclease activity
+MF	GO:0003957	   0	 3.008	D08	NAD(P)+ transhydrogenase (B-specific) activity
+MF	GO:0005525	   0	 3.008	D08	GTP binding
+MF	GO:0004402	  21	 2.707	D09	histone acetyltransferase activity
+MF	GO:0005351	  19	 2.707	D09	carbohydrate:proton symporter activity
+MF	GO:0008094	  17	 1.862	D09	DNA-dependent ATPase activity
+MF	GO:0005249	  15	 3.008	D09	voltage-gated potassium channel activity
+MF	GO:0004386	  14	 1.777	D09	helicase activity
+MF	GO:0005245	  13	 3.008	D09	voltage-gated calcium channel activity
+MF	GO:0045145	   0	 3.008	D09	single-stranded DNA 5'-3' exodeoxyribonuclease activity
+MF	GO:0042800	   0	 2.707	D09	histone methyltransferase activity (H3-K4 specific)
+MF	GO:0004176	   0	 2.406	D09	ATP-dependent peptidase activity
+MF	GO:0061746	   0	 3.008	D09	single-stranded DNA-dependent GTPase activity
+MF	GO:0008311	   0	 3.008	D09	double-stranded DNA 3'-5' exodeoxyribonuclease activity
+MF	GO:0008310	   0	 3.008	D09	single-stranded DNA 3'-5' exodeoxyribonuclease activity
+MF	GO:0030171	   0	 3.008	D09	voltage-gated proton channel activity
+MF	GO:0015193	   0	 3.008	D09	L-proline transmembrane transporter activity
+MF	GO:0015192	   0	 2.531	D09	L-phenylalanine transmembrane transporter activity
+MF	GO:0003678	   7	 1.929	D10	DNA helicase activity
+MF	GO:0003724	   2	 2.707	D10	RNA helicase activity
+MF	GO:0003918	   1	 3.008	D10	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity
+MF	GO:0015385	   1	 2.406	D10	sodium:proton antiporter activity
+MF	GO:0008574	   0	 3.008	D10	ATP-dependent microtubule motor activity, plus-end-directed
+MF	GO:0015528	   0	 3.008	D10	lactose:proton symporter activity
+MF	GO:0015386	   0	 3.008	D10	potassium:proton antiporter activity
+MF	GO:0015531	   0	 3.008	D10	citrate:proton symporter activity
+MF	GO:0015366	   0	 3.008	D10	malate:proton symporter activity
+MF	GO:0022850	   0	 2.531	D10	serotonin-gated cation-selective channel activity
+MF	GO:0043138	   1	 2.707	D11	3'-5' DNA helicase activity
+MF	GO:0017116	   1	 2.531	D11	single-stranded DNA helicase activity
+MF	GO:0005219	   1	 3.008	D11	ryanodine-sensitive calcium-release channel activity
+MF	GO:0036121	   0	 2.707	D11	double-stranded DNA helicase activity
+MF	GO:0009378	   0	 3.008	D11	four-way junction helicase activity
+MF	GO:0043995	   0	 3.008	D11	histone acetyltransferase activity (H4-K5 specific)
+MF	GO:0034458	   0	 3.008	D11	3'-5' RNA helicase activity
+MF	GO:0043139	   0	 3.008	D11	5'-3' DNA helicase activity
