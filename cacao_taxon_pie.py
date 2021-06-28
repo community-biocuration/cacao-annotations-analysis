@@ -9,7 +9,7 @@ import datetime as dt
 
 """
 NOTE:
-This file consist of a modified jupyter notebook converted to a script to generate the designated figure
+This file is derived from a jupyter notebook and was converted to a script to generate the designated figure.
 """
 
 ### Bring in CACACO gpad
@@ -92,7 +92,7 @@ def calc_the_diff(df1, df2):
     return df
 
 
-### Setup data for the pie chart
+### Set up data for the pie chart
 
 ### Subset dataframe based on domains
 Euk = fetch_domain_annotations(expanded_parsed, "Eukaryota")
@@ -125,7 +125,7 @@ arc_phylum = (
     Arc["phylum"].groupby(Arc["domain"]).value_counts().rename("counts").reset_index()
 )  # take top 2
 
-## Calculate the difference of the total amount of the domain, and the subset top N rank
+## Calculate the difference between the total number in the domain and the subset top N rank
 euk_diff = len(Euk) - (
     int(euk_phylum["counts"][:1].values)
     + int(euk_phylum["counts"][1:2].values)
