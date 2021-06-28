@@ -9,7 +9,7 @@ import datetime as dt
 
 """
 NOTE:
-This file consist of a modified jupyter notebook converted to a script to generate the designated figure
+This file is derived from a jupyter notebook, and was converted to a script to generate the designated figure.
 """
 
 ### Bring in CACACO gpad
